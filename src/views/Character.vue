@@ -46,11 +46,7 @@ watchEffect(() => {
       class="block w-full p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100"
       v-if="boolean"
     >
-      <img
-        :src="`../../public/images/${characterInfo.id}/icon.png`"
-        alt=""
-        class="w-28"
-      />
+      <img :src="`./images/${characterInfo.id}/icon.png`" alt="" class="w-28" />
       <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">
         {{ characterInfo.name }}
       </h2>
@@ -73,14 +69,10 @@ watchEffect(() => {
       <p v-if="characterInfo.gender">
         <img
           v-if="characterInfo.gender === 'Male'"
-          src="../../public/icons/gender/male-gender.png"
+          src="./icons/gender/male-gender.png"
           class="w-6"
         />
-        <img
-          v-else
-          src="../../public/icons/gender/female-gender.png"
-          class="w-6"
-        />
+        <img v-else src="./icons/gender/female-gender.png" class="w-6" />
       </p>
       <p v-if="characterInfo.title">Title: {{ characterInfo.title }}</p>
       <p>Vision: {{ characterInfo.vision }}</p>
@@ -127,7 +119,7 @@ watchEffect(() => {
                 >
                   <img
                     class="h-auto max-w-full rounded-lg w-28"
-                    :src="`../../public/images/${teamPremium.premium_team_ids[index]}/icon.png`"
+                    :src="`./images/${teamPremium.premium_team_ids[index]}/icon.png`"
                     alt=""
                   />
                   <p class="text-center">{{ teammate }}</p>
