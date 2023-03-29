@@ -21,7 +21,7 @@ import NavBar from "../components/navbar.vue";
       >
         <img
           class="h-auto max-w-full rounded-lg w-28"
-          :src="`../../images/${character.id}/icon.png`"
+          :src="`../images/${character.id}/icon.png`"
           alt=""
         />
         <p class="text-center">{{ character.name }}</p>
