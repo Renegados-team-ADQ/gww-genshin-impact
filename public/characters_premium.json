@@ -1,0 +1,1896 @@
+[
+  {
+    "id": "albedo",
+    "name": "Albedo",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support / Shield"
+    ],
+    "premium_team": [
+      "Xiao",
+      "Albedo",
+      "Jean",
+      "Zhongli"
+    ],
+    "premium_team_details": [
+      "- Albedo is one of the few Sub-DPS that works well with Xiao",
+      "- Zhongli & Albedo together will have Geo Resonance",
+      "- Jean will act as a battery for Xiao and healer for the whole team"
+    ],
+    "premium_team_ids": [
+      "xiao",
+      "albedo",
+      "jean",
+      "zhongli"
+    ]
+  },
+  {
+    "id": "alhaitham",
+    "name": "Alhaitham",
+    "premium_team_roles": [
+      "DPS",
+      "Support",
+      "Sub-DPS",
+      "Heal"
+    ],
+    "premium_team": [
+      "Alhaitham",
+      "Nahida",
+      "Xingqiu",
+      "Kuki Shinobu"
+    ],
+    "premium_team_details": [
+      "- Alhaitham works amazing with Hyperbloom & Spread Comps.",
+      "- Nahida can provide additional EM and DMG for the team.",
+      "- Kuki Shinobu are great off-field Electro for consistent activation of Spread and Hyperbloom.",
+      "- Xingqiu is the main enabler, allowing consistent production of Bloom Orbs and additional damage as well."
+    ],
+    "premium_team_ids": [
+      "alhaitham",
+      "nahida",
+      "xingqiu",
+      "kuki-shinobu"
+    ]
+  },
+  {
+    "id": "aloy",
+    "name": "Aloy",
+    "premium_team_roles": [
+      "Sub-DPS",
+      "Main DPS",
+      "Support",
+      "Heal"
+    ],
+    "premium_team": [
+      "Aloy",
+      "Hu Tao",
+      "Venti",
+      "Bennett"
+    ],
+    "premium_team_details": [
+      "- Aloy is the sub-DPS dealing melt reactions once its Burst is ready.",
+      "- Hu Tao is the main DPS that also spread Pyro through her marks.",
+      "- Venti will control the crowd with his burst.",
+      "- Bennett will boost the damage that Aloy and Hu Tao deals."
+    ],
+    "premium_team_ids": [
+      "aloy",
+      "hu-tao",
+      "venti",
+      "bennett"
+    ]
+  },
+  {
+    "id": "anemo-traveler",
+    "name": "Anemo Traveler",
+    "premium_team_roles": [
+      "Support",
+      "Main DPS",
+      "Sub DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Anemo Traveler",
+      "Klee",
+      "Yelan",
+      "Bennett"
+    ],
+    "premium_team_details": [
+      "- Anemo Traveler can shred the elemental resistance of the enemies enabling Klee & Yelan to execute them easily. She can also apply elemental resistance debuff based on the absorbed element.",
+      "- Klee acts as the main DPS who can consistently deal Pyro DMG that can be swirled by Anemo Traveler & proc vaporize with Yelan. In addition, the remaining mines from her Skill can be displaced with Anemo Traveler's Skill & Burst.",
+      "└ Can decrease the enemies' DEF at constellation 2",
+      "- Bennett enables Pyro resonance with Klee. He can also provide cleansing heal & ATK buff with his Burst.",
+      "- Yelan's Burst can perform coordinated Hydro attacks with Klee that can inflict powerful vaporize DMG."
+    ],
+    "premium_team_ids": [
+      "anemo-traveler",
+      "klee",
+      "yelan",
+      "bennett"
+    ]
+  },
+  {
+    "id": "kamisato-ayaka",
+    "name": "Ayaka",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Ayaka",
+      "Mona",
+      "Kazuha",
+      "Diona"
+    ],
+    "premium_team_details": [
+      "- A permafreeze comp for Ayaka",
+      "- Mona will provide additional DMG while doing Freeze with Ayaka",
+      "- Kazuha can act as an enabler and shred for Cryo",
+      "- Diona will provide shield, healing, and Cryo resonance with Ayaka"
+    ],
+    "premium_team_ids": [
+      "kamisato-ayaka",
+      "mona",
+      "kaedehara-kazuha",
+      "diona"
+    ]
+  },
+  {
+    "id": "ayato",
+    "name": "Ayato",
+    "premium_team_roles": [
+      "Main DPS",
+      "Reaction",
+      "Heal",
+      "Support"
+    ],
+    "premium_team": [
+      "Ayato",
+      "Nahida",
+      "Kuki Shinobu",
+      "Yun Jin"
+    ],
+    "premium_team_details": [
+      "- Ayato will act as the Main DPS for the team, dealing high damage with his skill and triggering various hydro reactions.",
+      "- Nahida will boost the Elemental Mastery of Ayato and enables Bloom to happen.",
+      "- Kuki Shinobu will handle the heals and also support the team damage through Hyperbloom.",
+      "- Yun Jin will increase Normal Attack DMG and ATK SPD (If c6) of Ayato."
+    ],
+    "premium_team_ids": [
+      "ayato",
+      "nahida",
+      "kuki-shinobu",
+      "yun-jin"
+    ]
+  },
+  {
+    "id": "tartaglia",
+    "name": "Childe (Tartaglia)",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Childe",
+      "Fischl",
+      "Beidou",
+      "Sucrose"
+    ],
+    "premium_team_details": [
+      "- The OG Taser comp, even with Sumeru it's still one of Childe's best comps",
+      "- Childe will act as an enabler and on-field DPS. With his Skill, he can continously apply Hydro while the rest of the team apply Electro for Electrocharge",
+      "- Sucrose will apply Elemental shred, further increasing the damage of the team"
+    ],
+    "premium_team_ids": [
+      "tartaglia",
+      "fischl",
+      "beidou",
+      "sucrose"
+    ]
+  },
+  {
+    "id": "cyno",
+    "name": "Cyno",
+    "premium_team_roles": [
+      "DPS",
+      "Support",
+      "Support",
+      "Healing"
+    ],
+    "premium_team": [
+      "Cyno",
+      "Fischl",
+      "Nahida",
+      "Kokomi"
+    ],
+    "premium_team_details": [
+      "- Cyno will be the main DPS in this team.",
+      "- Fischl is an effective way to battery the team.",
+      "- Dendro Traveler will boost the Electro damage of Cyno through reactions.",
+      "- Kokomi can heal the team and can also help with damage through Dendro Cores."
+    ],
+    "premium_team_ids": [
+      "cyno",
+      "fischl",
+      "nahida",
+      "sangonomiya-kokomi"
+    ]
+  },
+  {
+    "id": "dehya",
+    "name": "Dehya",
+    "premium_team_roles": [
+      "Sub DPS",
+      "Main DPS",
+      "Healer",
+      "Support"
+    ],
+    "premium_team": [
+      "Dehya",
+      "Ganyu",
+      "Bennett",
+      "Nahida"
+    ],
+    "premium_team_details": [
+      "- Dehya works great in Melt Ganyu situation since it increases her overall damage",
+      "- Dehya, Bennett and Nahida can trigger Burning which can be melted by Ganyu",
+      "- Nahida's Burst also increases the EM of the team which can boost Melt & Burning DMG"
+    ],
+    "premium_team_ids": [
+      "dehya",
+      "ganyu",
+      "bennett",
+      "nahida"
+    ]
+  },
+  {
+    "id": "dendro-traveler",
+    "name": "Dendro Traveler",
+    "premium_team_roles": [
+      "Support",
+      "Main DPS",
+      "Sub-DPS",
+      "Healer"
+    ],
+    "premium_team": [
+      "Dendro Traveler",
+      "Yae Miko",
+      "Raiden Shogun",
+      "Kokomi"
+    ],
+    "premium_team_details": [
+      "- Dendro Traveler works great with Raiden Shogun because Raiden Shogun can cover for Dendro Traveler's High Burst Cost.",
+      "- Yae Miko will be extra powerful because of the Dendro Reaction, Quicken.",
+      "- Kokomi can heal and can also trigger Bloom that can lead to Hyper Bloom due to the existence of many Electro Attacks."
+    ],
+    "premium_team_ids": [
+      "dendro-traveler",
+      "yae-miko",
+      "raiden-shogun",
+      "sangonomiya-kokomi"
+    ]
+  },
+  {
+    "id": "diluc",
+    "name": "Diluc",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Support",
+      "Support"
+    ],
+    "premium_team": [
+      "Diluc",
+      "Xingqiu",
+      "Bennett",
+      "Kazuha"
+    ],
+    "premium_team_details": [
+      "- Diluc will be the on-field DPS of the team, being supported by his party member's on-field abilities",
+      "- Xingqiu will be able to properly proc Vaporize with his Burst with Diluc",
+      "- Bennett will provide a number of support abilties, including increase in DMG and whole team ATK increase with Pyro resonance",
+      "- Kazuha will provide Elemental Shred for the whole team"
+    ],
+    "premium_team_ids": [
+      "diluc",
+      "xingqiu",
+      "bennett",
+      "kaedehara-kazuha"
+    ]
+  },
+  {
+    "id": "electro-traveler",
+    "name": "Electro Traveler",
+    "premium_team_roles": [
+      "Support",
+      "Damage",
+      "Support",
+      "Heal"
+    ],
+    "premium_team": [
+      "Electro Traveler",
+      "Childe (Tartaglia)",
+      "Kazuha",
+      "Diona"
+    ],
+    "premium_team_details": [
+      "- Electro Traveler is a great energy support due to his skill. He can easily work with any team comp especially those who requires energy for Elemental Burst.",
+      "- Childe is able to apply hydro to multiple enemies, making him great with Traveler as they can easily Electrocharge enemies",
+      "- Crowd control to easily apply elemental combos and bursts to enemies. Use Kazuha's skill to group enemies and buff the team.",
+      "- Diona can provide powerful shields and healing sustaining the team."
+    ],
+    "premium_team_ids": [
+      "electro-traveler",
+      "tartaglia",
+      "kaedehara-kazuha",
+      "diona"
+    ]
+  },
+  {
+    "id": "eula",
+    "name": "Eula",
+    "premium_team_roles": [
+      "DPS",
+      "Reaction",
+      "Shield",
+      "Support"
+    ],
+    "premium_team": [
+      "Eula",
+      "Raiden Shogun",
+      "Diona",
+      "Yun Jin"
+    ],
+    "premium_team_details": [
+      "- Eula will mainly deal damage and spread cryo using her skill and burst.",
+      "- Raiden provides additional damage while spreading Electro enabling constant superconduct debuff to enemies.",
+      "- Diona provides shields, heals and elemental resonance.",
+      "- Yun Jin increases the damage of Normal Attacks of Eula."
+    ],
+    "premium_team_ids": [
+      "eula",
+      "raiden-shogun",
+      "diona",
+      "yun-jin"
+    ]
+  },
+  {
+    "id": "ganyu",
+    "name": "Ganyu",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support / Shield"
+    ],
+    "premium_team": [
+      "Ganyu",
+      "Xiangling",
+      "Bennett",
+      "Zhongli"
+    ],
+    "premium_team_details": [
+      "- A melt comp for Ganyu",
+      "- Xiangling will combo with Ganyu for Melt with her Elemental Burst",
+      "- Bennett & Xiangling provides additional damage through Pyro Resonance",
+      "- Zhongli's shield will allow Ganyu to spam her Charged Attack without being interrupted"
+    ],
+    "premium_team_ids": [
+      "ganyu",
+      "xiangling",
+      "bennett",
+      "zhongli"
+    ]
+  },
+  {
+    "id": "geo-traveler",
+    "name": "Geo Traveler",
+    "premium_team_roles": [
+      "Support DPS",
+      "Support",
+      "Main DPS",
+      "Sub DPS"
+    ],
+    "premium_team": [
+      "Geo Traveler",
+      "Zhongli",
+      "Yae Miko",
+      "Mona"
+    ],
+    "premium_team_details": [
+      "- The Traveler's role is to use Elemental Skill & Burst which produces Geo construct that pulsates with Zhongli's monolith that deals Geo DMG.",
+      "- Zhongli's shield can be sustained so it is ok to not use any healer. Geo resonance with the Geo Traveler can also increase damage output of the team.",
+      "- Yae Miko's Skill & Burst can damage the enemies without getting blocked by the Geo construct created by Geo Traveler & Zhongli.",
+      "- Mona' Skill can proc electro-charged with Yae Miko. She can deal powerful Hydro damage while boosting the team's overall damage with her Burst."
+    ],
+    "premium_team_ids": [
+      "geo-traveler",
+      "zhongli",
+      "yae-miko",
+      "mona"
+    ]
+  },
+  {
+    "id": "hu-tao",
+    "name": "Hu Tao",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Shield"
+    ],
+    "premium_team": [
+      "Hu Tao",
+      "Yelan",
+      "Xingqiu",
+      "Zhongli"
+    ],
+    "premium_team_details": [
+      "- The double hydro Vape team for Hu Tao",
+      "- Hydro resonance from Yelan & Xingqiu will also support Hu Tao",
+      "- Zhongli is in a flex spot, so can be exchanged for either a healer or Anemo support for shred"
+    ],
+    "premium_team_ids": [
+      "hu-tao",
+      "yelan",
+      "xingqiu",
+      "zhongli"
+    ]
+  },
+  {
+    "id": "arataki-itto",
+    "name": "Itto",
+    "premium_team_roles": [
+      "DPS",
+      "Support",
+      "Sub-DPS",
+      "Battery"
+    ],
+    "premium_team": [
+      "Arataki Itto",
+      "Gorou",
+      "Zhongli",
+      "Raiden Shogun"
+    ],
+    "premium_team_details": [
+      "- Arataki Itto will be the main DPS of the team.",
+      "- Gorou will boost the DMG of Gorou providing additional Geo DMG and defense.",
+      "- Albedo will be the Geo Battery and a sub-DPS.",
+      "- Raiden will be the Battery and the sub-DPS during the down time of Arataki Itto's Elemental Burst."
+    ],
+    "premium_team_ids": [
+      "arataki-itto",
+      "gorou",
+      "zhongli",
+      "raiden-shogun"
+    ]
+  },
+  {
+    "id": "jean",
+    "name": "Jean",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Support",
+      "Support"
+    ],
+    "premium_team": [
+      "Jean",
+      "Mika",
+      "Fischl",
+      "Layla"
+    ],
+    "premium_team_details": [
+      "- A Physical DMG team build for Jean",
+      "- Jean will be the on-field DPS as she deals Physical DMG",
+      "- Fischl and Leyla can work together to constantly proc Superconduct",
+      "- Mika can increase the Physical DMG of Jean"
+    ],
+    "premium_team_ids": [
+      "jean",
+      "mika",
+      "fischl",
+      "layla"
+    ]
+  },
+  {
+    "id": "kaedehara-kazuha",
+    "name": "Kazuha",
+    "premium_team_roles": [
+      "Enabler",
+      "Sub-DPS",
+      "Sub-DPS / Healer",
+      "Main DPS"
+    ],
+    "premium_team": [
+      "Kazuha",
+      "Nahida",
+      "Kuki Shinobu",
+      "Ayato"
+    ],
+    "premium_team_details": [
+      "- Hyperbloom Team with Kazuha",
+      "- Ayato as main DPS will work well with Kuki Shinobu and Nahida for continues Bloom and Hyperbloom",
+      "- Kazuha will increase the DMG of the team of the whole and apply shred to enemies.",
+      "- Kazuha increases the EM of characters at higher constellations enabling higher DMG for reaction"
+    ],
+    "premium_team_ids": [
+      "kaedehara-kazuha",
+      "nahida",
+      "kuki-shinobu",
+      "ayato"
+    ]
+  },
+  {
+    "id": "keqing",
+    "name": "Keqing",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Enabler / Support",
+      "Flex"
+    ],
+    "premium_team": [
+      "Keqing",
+      "Nahida",
+      "Kuki Shinobu",
+      "Zhongli"
+    ],
+    "premium_team_details": [
+      "- An aggravate team comp with Keqing as the main DPS",
+      "- Nahida will allow easy and continuous Dendro application",
+      "- Kuki Shinobu will provide healing for the team and her skill will allow proc of Quicken while Keqing does Aggravate",
+      "- Zhongli is in a flex slot and can be switched with an Anemo for shred"
+    ],
+    "premium_team_ids": [
+      "keqing",
+      "nahida",
+      "kuki-shinobu",
+      "zhongli"
+    ]
+  },
+  {
+    "id": "klee",
+    "name": "Klee",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Enabler",
+      "Support"
+    ],
+    "premium_team": [
+      "Klee",
+      "Rosaria",
+      "Kazuha",
+      "Layla"
+    ],
+    "premium_team_details": [
+      "- A Melt Comp centered around Klee",
+      "- Cryo resonance will increase team's Crit Rate",
+      "- Kazuha & Layla will provide shield and constant Cryo application",
+      "- Klee will be the on-field DPS, triggering Melt"
+    ],
+    "premium_team_ids": [
+      "klee",
+      "rosaria",
+      "kaedehara-kazuha",
+      "layla"
+    ]
+  },
+  {
+    "id": "sangonomiya-kokomi",
+    "name": "Kokomi",
+    "premium_team_roles": [
+      "Healer",
+      "Main DPS",
+      "Sub-DPS",
+      "Enabler"
+    ],
+    "premium_team": [
+      "Kokomi",
+      "Nilou",
+      "Nahida",
+      "Dendro Traveler"
+    ],
+    "premium_team_details": [
+      "- Bloom comp with Kokomi.",
+      "- Kokomi will be able to keep her team alive as they continuously get hit by bloom",
+      "- Nilou will be the on-field DPS with Nahida ensuring continuous Dendro application",
+      "- Dendro Traveler is there for EM buff and additional Dendro infliction."
+    ],
+    "premium_team_ids": [
+      "sangonomiya-kokomi",
+      "nilou",
+      "nahida",
+      "dendro-traveler"
+    ]
+  },
+  {
+    "id": "mona",
+    "name": "Mona",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Enabler / Support",
+      "Sub-DPS"
+    ],
+    "premium_team": [
+      "Mona",
+      "Fischl",
+      "Kuki Shinobu",
+      "Kazuha"
+    ],
+    "premium_team_details": [
+      "- A electro-charged team centered around Mona",
+      "- Fischl & Kuki Shinobu will secure continuous Electo application",
+      "- Kuki can heal the team",
+      "- Kazuha will apply elemental shred and even CC enemies for Mona's Burst"
+    ],
+    "premium_team_ids": [
+      "mona",
+      "fischl",
+      "kuki-shinobu",
+      "kaedehara-kazuha"
+    ]
+  },
+  {
+    "id": "nahida",
+    "name": "Nahida",
+    "premium_team_roles": [
+      "Support",
+      "DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Nahida",
+      "Cyno",
+      "Dendro Traveler",
+      "Kokomi"
+    ],
+    "premium_team_details": [
+      "- Nahida will mainly be an off-field Dendro support in this team.",
+      "- Cyno will be the main DPS triggering Aggravate for increased damage.",
+      "- Dendro Traveler will give Dendro Resonance",
+      "- Kokomi is the main healer and enables Bloom reactions."
+    ],
+    "premium_team_ids": [
+      "nahida",
+      "cyno",
+      "dendro-traveler",
+      "sangonomiya-kokomi"
+    ]
+  },
+  {
+    "id": "nilou",
+    "name": "Nilou",
+    "premium_team_roles": [
+      "Enabler",
+      "Sub-DPS",
+      "Support",
+      "Support"
+    ],
+    "premium_team": [
+      "Nilou",
+      "Kokomi",
+      "Dendro Traveler",
+      "Nahida"
+    ],
+    "premium_team_details": [
+      "- Nilou will be the enabler in this team, focusing on spreading Hydro on-field to trigger multiple instances of Bloom.",
+      "- Kokomi will heal the team using its Elemental Skill preventing damage from Dendro Cores.",
+      "- Dendro Traveler and Nahida provides the off-field Dendro allowing the continuous production of Blooms."
+    ],
+    "premium_team_ids": [
+      "nilou",
+      "sangonomiya-kokomi",
+      "dendro-traveler",
+      "nahida"
+    ]
+  },
+  {
+    "id": "qiqi",
+    "name": "Qiqi",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Sub-DPS / Healer"
+    ],
+    "premium_team": [
+      "Eula",
+      "Fischl",
+      "Beidou",
+      "Qiqi"
+    ],
+    "premium_team_details": [
+      "- A superconduct team- Beidou and Fischl will continuously provide Electro for Superconduct",
+      "- Qiqi's Elemental Skill will allow continous proc of Superconduct while Eula is on the field"
+    ],
+    "premium_team_ids": [
+      "eula",
+      "fischl",
+      "beidou",
+      "qiqi"
+    ]
+  },
+  {
+    "id": "raiden-shogun",
+    "name": "Raiden Shogun",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Reaction",
+      "Buff"
+    ],
+    "premium_team": [
+      "Raiden Shogun",
+      "Xiangling",
+      "Xingqiu",
+      "Bennett"
+    ],
+    "premium_team_details": [
+      "- National Team variant called \"Raiden National.\"",
+      "- Raiden Shogun provides Elemental DMG bonus and Energy for the whole team.",
+      "- Raiden Shogun DMG and resistance at Burst makes her the perfect Main DPS for National Team.",
+      "- Xiangling's ULT gets boosted by Bennett's Burst and Raiden.",
+      "- Xingqiu's Elemental Burst allows consistent Vaporized and is not disturbed by Electro since Electro-charged keeps both Hydro and Electro.",
+      "- Bennett keeps the team alive and well while providing a very high ATK Buff."
+    ],
+    "premium_team_ids": [
+      "raiden-shogun",
+      "xiangling",
+      "xingqiu",
+      "bennett"
+    ]
+  },
+  {
+    "id": "wanderer",
+    "name": "Scaramouche (Wanderer)",
+    "premium_team_roles": [
+      "DPS",
+      "Support",
+      "Sub-DPS",
+      "Heal"
+    ],
+    "premium_team": [
+      "Wanderer",
+      "Faruzan",
+      "Yelan",
+      "Bennett"
+    ],
+    "premium_team_details": [
+      "- Scaramouche will be the main DPS dealing Anemo DMG with his skill and powerful Normal Attack.",
+      "- Faruzan is there for reduction of Anemo Resistance and DMG boost.",
+      "- Yelan is another off-field DPS that can provide additional buff to Wanderer and Hydro Swirl.",
+      "- Bennett for ATK buff, heals and allows Scaramouche to swirl Pyro."
+    ],
+    "premium_team_ids": [
+      "wanderer",
+      "faruzan",
+      "yelan",
+      "bennett"
+    ]
+  },
+  {
+    "id": "shenhe",
+    "name": "Shenhe",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS / Buffer",
+      "Sub-DPS",
+      "Healer"
+    ],
+    "premium_team": [
+      "Ayaka",
+      "Shenhe",
+      "Sucrose",
+      "Diona"
+    ],
+    "premium_team_details": [
+      "- A mono cryo comp with Shenhe as support",
+      "- Ayaka can fully take advantage of Shenhe's Cryo buffs",
+      "- Diona will provide healing and shields",
+      "- Sucrose will provide increased Elemental DMG for the team"
+    ],
+    "premium_team_ids": [
+      "kamisato-ayaka",
+      "shenhe",
+      "sucrose",
+      "diona"
+    ]
+  },
+  {
+    "id": "tighnari",
+    "name": "Tighnari",
+    "premium_team_roles": [
+      "Damage",
+      "Sub-DPS",
+      "Support",
+      "Heal"
+    ],
+    "premium_team": [
+      "Tighnari",
+      "Collei",
+      "Fischl",
+      "Kuki Shinobu"
+    ],
+    "premium_team_details": [
+      "- Collei would not only help by producing extra damage, she can also resonate with Tighnari for Dendro Resonance.",
+      "- Fischl enables Tighnari to trigger Quicken while also providing energy and extra damage.",
+      "- Kuki Shinobi can heal and resonate with Fischl for Electro Resonance."
+    ],
+    "premium_team_ids": [
+      "tighnari",
+      "collei",
+      "fischl",
+      "kuki-shinobu"
+    ]
+  },
+  {
+    "id": "venti",
+    "name": "Venti",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Support",
+      "Support"
+    ],
+    "premium_team": [
+      "Ganyu",
+      "Mona",
+      "Venti",
+      "Diona"
+    ],
+    "premium_team_details": [
+      "- The OG Perma Freeze comp, even with Sumeru it's still one of Venti's best comps",
+      "- Venti will apply Cryo shred and elemental infusion to increase Cryo DMG",
+      "- Mona will provide Hydro for Freeze, Burst will also increase DPS",
+      "- Ganyu will be the main DPS, charge shots should be used when Venti's Burst is active",
+      "- Mona will provide healing and additional Cryo application"
+    ],
+    "premium_team_ids": [
+      "ganyu",
+      "mona",
+      "venti",
+      "diona"
+    ]
+  },
+  {
+    "id": "xiao",
+    "name": "Xiao",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Batter / Support",
+      "Sub-DPS / Shield"
+    ],
+    "premium_team": [
+      "Xiao",
+      "Albedo",
+      "Jean",
+      "Zhongli"
+    ],
+    "premium_team_details": [
+      "- Very expensive team comp, but currently, the best team comp for Xiao",
+      "- Jean will act as a battery for Xiao, while providing healing for the team",
+      "- Albedo will provide on-field DPS with his Elemental Skill",
+      "- Zhongli can offer shred and a shield for Xiao"
+    ],
+    "premium_team_ids": [
+      "xiao",
+      "albedo",
+      "jean",
+      "zhongli"
+    ]
+  },
+  {
+    "id": "yae-miko",
+    "name": "Yae Miko",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Yae Miko",
+      "Dendro Traveler",
+      "Fischl",
+      "Jean"
+    ],
+    "premium_team_details": [
+      "- Proc consistent aggravate through Yae Miko, Fischl, and Dendro Traveler",
+      "- Yae Miko will be the on-field main DPS",
+      "- Jean will Swirl and provide healing for the team"
+    ],
+    "premium_team_ids": [
+      "yae-miko",
+      "dendro-traveler",
+      "fischl",
+      "jean"
+    ]
+  },
+  {
+    "id": "yelan",
+    "name": "Yelan",
+    "premium_team_roles": [
+      "Damage",
+      "Damage",
+      "Support",
+      "Heal"
+    ],
+    "premium_team": [
+      "Yelan",
+      "Yoimiya",
+      "Kazuha",
+      "Diona"
+    ],
+    "premium_team_details": [
+      "- Since Yelan's elemental burst synergizes with the active character's normal attacks, she is great to pair with a character that can perform swift normal attacks.",
+      "- Yoimiya focuses mainly on normal attack which deals powerful Pyro DMG. Vaporize can happen when paired with Yelan.",
+      "- Kazuha can boost elemental damage & has a great crowd control that can shred the enemies' elemental resistance.",
+      "- Diona can support the whole team with a shield & an AOE that can simultaneously heal and deal Cryo damage to the enemies."
+    ],
+    "premium_team_ids": [
+      "yelan",
+      "yoimiya",
+      "kaedehara-kazuha",
+      "diona"
+    ]
+  },
+  {
+    "id": "yoimiya",
+    "name": "Yoimiya",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Yoimiya",
+      "Raiden Shogun",
+      "Xingqiu",
+      "Yun Jin"
+    ],
+    "premium_team_details": [
+      "- Proc Overload and Vape simultaneously with Yoimiya, Raiden Shogun, and Xingqiu",
+      "- Yun Jin will provide a buff to Yoimiya's Normal Attack, while also providing a shield to prevent interruptions"
+    ],
+    "premium_team_ids": [
+      "yoimiya",
+      "raiden-shogun",
+      "xingqiu",
+      "yun-jin"
+    ]
+  },
+  {
+    "id": "zhongli",
+    "name": "Zhongli",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support / Shield"
+    ],
+    "premium_team": [
+      "Itto",
+      "Albedo",
+      "Gorou",
+      "Zhongli"
+    ],
+    "premium_team_details": [
+      "- A mono Geo team comp",
+      "- Itto as main DPS will receive support from Gorou and Zhongli",
+      "- Zhongli will ensure Itto doesn't get interrupted during his Burst",
+      "- Albedo will probably additional on-field DPS"
+    ],
+    "premium_team_ids": [
+      "arataki-itto",
+      "albedo",
+      "gorou",
+      "zhongli"
+    ]
+  },
+  {
+    "id": "amber",
+    "name": "Amber",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Support",
+      "Sub-DPS"
+    ],
+    "premium_team": [
+      "Amber",
+      "Mona",
+      "Jean",
+      "Dehya"
+    ],
+    "premium_team_details": [
+      "- A Physical DMG team build for Amber",
+      "- Amber will be the on-field DPS as she deals Physical DMG and procs the on-field abilities of Xingqiu & Dehya",
+      "- Jean can keep the team together with healing. If she has a VV set, she can increase the Elemental DMG in the team"
+    ],
+    "premium_team_ids": [
+      "amber",
+      "mona",
+      "jean",
+      "dehya"
+    ]
+  },
+  {
+    "id": "barbara",
+    "name": "Barbara",
+    "premium_team_roles": [
+      "Support",
+      "Sub DPS",
+      "Sub DPS",
+      "DPS"
+    ],
+    "premium_team": [
+      "Barbara",
+      "Dendro Traveler",
+      "Nahida",
+      "Nilou"
+    ],
+    "premium_team_details": [
+      "- Barbara is the healer of the team who can also produce Dendro cores together with Nilou",
+      "- Dendro Resonance increases bloom damage",
+      "- Nahida can further amplify bloom damage",
+      "- Nilou works well with Barbara because of HP increase through Resonance that benefits both of them and also upgrades Dendro cores to Bountiful cores"
+    ],
+    "premium_team_ids": [
+      "barbara",
+      "dendro-traveler",
+      "nahida",
+      "nilou"
+    ]
+  },
+  {
+    "id": "beidou",
+    "name": "Beidou",
+    "premium_team_roles": [
+      "Main DPS",
+      "Support",
+      "Sub DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Beidou",
+      "Nahida",
+      "Yae Miko",
+      "Kokomi"
+    ],
+    "premium_team_details": [
+      "- Beidou acts as the main Electro DPS who can also be a shielder at C1.",
+      "- Nahida is can inflict Dendro that can be sustained which can trigger strong reactions and works perfectly with Electro & Hydro.",
+      "- Yae Miko can provide a powerful off-field Electro DPS and can also give additional Energy particles with Electro Resonance.",
+      "- Kokomi is a great healer and Hydro applicator. She can contribute to produce Dendro cores that can be triggered by either Yae Miko or Beidou for additional damage."
+    ],
+    "premium_team_ids": [
+      "beidou",
+      "nahida",
+      "yae-miko",
+      "sangonomiya-kokomi"
+    ]
+  },
+  {
+    "id": "bennett",
+    "name": "Bennett",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Xiao",
+      "Albedo",
+      "Zhongli",
+      "Bennett"
+    ],
+    "premium_team_details": [
+      "- Whole team is centered on non-reaction damage",
+      "- Xiao as a hyper carry will greatly benefit from Bennett's Burst (Healing & ATK Boost)",
+      "- Albedo will provide additional DMG, while Zhongli's shield will save the team from incoming DMG"
+    ],
+    "premium_team_ids": [
+      "xiao",
+      "albedo",
+      "zhongli",
+      "bennett"
+    ]
+  },
+  {
+    "id": "candace",
+    "name": "Candace",
+    "premium_team_roles": [
+      "Support",
+      "DPS",
+      "Sub-DPS",
+      "Healing"
+    ],
+    "premium_team": [
+      "Candace",
+      "Ayato",
+      "Xiangling",
+      "Bennett"
+    ],
+    "premium_team_details": [
+      "- Candace will be the main support in this team boosting the normal attack of the team.",
+      "- Ayato gets boosted through Hydro Resonance and Normal Attack Buff.",
+      "- Xiangling will be the sub-DPS dealing Vaporized .",
+      "- Bennett will buff team and provide stable healing."
+    ],
+    "premium_team_ids": [
+      "candace",
+      "ayato",
+      "xiangling",
+      "bennett"
+    ]
+  },
+  {
+    "id": "chongyun",
+    "name": "Chongyun",
+    "premium_team_roles": [
+      "Support",
+      "Main DPS",
+      "Support",
+      "Support"
+    ],
+    "premium_team": [
+      "Chongyun",
+      "Ayaka",
+      "Kazuha",
+      "Kokomi"
+    ],
+    "premium_team_details": [
+      "- In this team, Chongyun acts as a support. His Elemental Skill buff can be maximized by Ayaka.",
+      "- Ayaka is a powerful main DPS who can consistently deal Cryo DMG. Chongyun's Skill is beneficial to Ayaka since it can help her to sustain the Cryo infusion which is helpful in conserving stamina as Ayaka does not need to sprint much to get Cryo infusion.",
+      "- Kazuha can amplify the elemental DMG of Ayaka when Cryo gets absorbed in his Burst. In addition, he can gather lightweight enemies with his Skill and also spread Hydro to nearby enemies for Ayaka & Chongyun to freeze.",
+      "- Kokomi is a great healer & Hydro applicator who can help the team to freeze the enemies."
+    ],
+    "premium_team_ids": [
+      "chongyun",
+      "kamisato-ayaka",
+      "kaedehara-kazuha",
+      "sangonomiya-kokomi"
+    ]
+  },
+  {
+    "id": "collei",
+    "name": "Collei",
+    "premium_team_roles": [
+      "Sub-DPS",
+      "DPS",
+      "Reaction",
+      "Support"
+    ],
+    "premium_team": [
+      "Collei",
+      "Yoimiya",
+      "Kokomi",
+      "Yun Jin"
+    ],
+    "premium_team_details": [
+      "- Collei can deal multiple explosions helping Yoimiya with its lack of AoE through dendro reactions with Hydro & Pyro.",
+      "- Yun Jin boosts Yoimiya enabling her to deal more damage.",
+      "- Kokomi is there for healing and spreading hydro."
+    ],
+    "premium_team_ids": [
+      "collei",
+      "yoimiya",
+      "sangonomiya-kokomi",
+      "yun-jin"
+    ]
+  },
+  {
+    "id": "diona",
+    "name": "Diona",
+    "premium_team_roles": [
+      "Support",
+      "DPS",
+      "Support",
+      "Sub-DPS"
+    ],
+    "premium_team": [
+      "Diona",
+      "Diluc",
+      "Venti",
+      "Xingqiu"
+    ],
+    "premium_team_details": [
+      "- Diona as a support can easily apply Cryo to enemies with Elemetal Skill, while also creating a shield. She won't be an onfield DPS, but she can be relied on to spread Cryo to enemies when she's out.",
+      "- Diluc will be the on field damage dealer. After Diona uses her Elemental Skill, switch to Diluc and use any of his skills to proc Melt. He can then stay on the field until Diona's cooldowns are over",
+      "- Venti can easily group enemies. Have him use his Elemental Burst, then Diona's Elemental Skill to swirl Cryo. This can then finished off with either Diluc to create Melt",
+      "- Xingqiu is there to produce additional off-field DMG."
+    ],
+    "premium_team_ids": [
+      "diona",
+      "diluc",
+      "venti",
+      "xingqiu"
+    ]
+  },
+  {
+    "id": "dori",
+    "name": "Dori",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Support",
+      "Healer"
+    ],
+    "premium_team": [
+      "Eula",
+      "Raiden Shogun",
+      "Rosaria",
+      "Dori"
+    ],
+    "premium_team_details": [
+      "- Dori's role on the team is to provide Electro infliction and build Elemental Burst for the main DPS",
+      "- Raiden and Dori can work together for the uptime of super conduct and charging the Energy of the team.",
+      "- Rosaria can spread Cryo and increase physical damage for bigger damage from Eula. - Eula with her powerful Physical attack will be the main DPS in this team."
+    ],
+    "premium_team_ids": [
+      "eula",
+      "raiden-shogun",
+      "rosaria",
+      "dori"
+    ]
+  },
+  {
+    "id": "faruzan",
+    "name": "Faruzan",
+    "premium_team_roles": [
+      "Support",
+      "DPS",
+      "Sub-DPS",
+      "Heal"
+    ],
+    "premium_team": [
+      "Faruzan",
+      "Wanderer",
+      "Yelan",
+      "Bennett"
+    ],
+    "premium_team_details": [
+      "- Faruzan is there for reduction of Anemo Resistance and DMG boost.",
+      "Scaramouche will be the main DPS dealing Anemo DMG with his skill and powerful Normal Attack.",
+      "- Yelan is another off-field DPS that can provide additional buff to Wanderer and Hydro Swirl.",
+      "- Bennett for ATK buff, heals and allows Scaramouche to swirl Pyro."
+    ],
+    "premium_team_ids": [
+      "faruzan",
+      "wanderer",
+      "yelan",
+      "bennett"
+    ]
+  },
+  {
+    "id": "fischl",
+    "name": "Fischl",
+    "premium_team_roles": [
+      "Sub DPS",
+      "DPS",
+      "Support",
+      "Sub DPS"
+    ],
+    "premium_team": [
+      "Fischl",
+      "Yoimiya",
+      "Zhongli",
+      "Yelan"
+    ],
+    "premium_team_details": [
+      "- Fischl can deploy Oz easily with Skill & Burst. At C6, Oz can perform a coordinated attack and can shoot additional projectiles on top of the auto-attack.",
+      "- Yoimiya is with Fischl as they can easily trigger Overload and since Yoimiya has a quick Normal Attack, she can maximize Fischl's C6.",
+      "- Zhongli has a durable shield that can be sustained. Since you are shielded, a healer is not necessary unless you can sustain the shield and if you encounter corrosion debuff.",
+      "- Yelan is a great off-field Hydro DPS that can synergize with Yoimiya's Normal Attack. In addition, she can contribute triggering elemental reactions with Yoimiya & Fischl."
+    ],
+    "premium_team_ids": [
+      "fischl",
+      "yoimiya",
+      "zhongli",
+      "yelan"
+    ]
+  },
+  {
+    "id": "gorou",
+    "name": "Gorou",
+    "premium_team_roles": [
+      "Support",
+      "DPS",
+      "Sub-DPS",
+      "Battery"
+    ],
+    "premium_team": [
+      "Gorou",
+      "Arataki Itto",
+      "Albedo",
+      "Raiden Shogun"
+    ],
+    "premium_team_details": [
+      "- Gorou will be the main support of the team boosting the damage of Itto and Albedo.",
+      "- With Goro, Itto will get boosted damage and less interruption.",
+      "- Albedo's flowers will have more damage because of Defense boost by Gorou.",
+      "- Gorou's high Burst cost will make Raiden easily stack Sigils for her Elemental Burst.",
+      "- Albedo and Raiden will help in providing Energy for a stable Burst for the whole team."
+    ],
+    "premium_team_ids": [
+      "gorou",
+      "arataki-itto",
+      "albedo",
+      "raiden-shogun"
+    ]
+  },
+  {
+    "id": "kaeya",
+    "name": "Kaeya",
+    "premium_team_roles": [
+      "Sub DPS",
+      "Main DPS",
+      "Support",
+      "Support"
+    ],
+    "premium_team": [
+      "Kaeya",
+      "Diluc",
+      "Venti",
+      "Bennett"
+    ],
+    "premium_team_details": [
+      "- Kaeya's Burst is great to pair with Diluc for melt reaction.",
+      "- Diluc acts as the main DPS of the team. Switch between Diluc & Kaeya and maximize their Skills & Bursts to continuously trigger melt reaction. It is also best to use his Burst after Venti has compressed the lightweight enemies.",
+      "- Venti's Burst has crowd control that works well with either Kaeya or Diluc since whether it's Cryo or Pyro that gets swirled, it works for the team. His Burst also prevents enemies from being knocked back when hit by Diluc's Burst",
+      "- Bennett provides healing & ATK buff from his Burst. In addition, the team gains 25% ATK from Pyro resonance."
+    ],
+    "premium_team_ids": [
+      "kaeya",
+      "diluc",
+      "venti",
+      "bennett"
+    ]
+  },
+  {
+    "id": "kujou-sara",
+    "name": "Kujou Sara",
+    "premium_team_roles": [
+      "Support",
+      "DPS",
+      "Healer",
+      "Support"
+    ],
+    "premium_team": [
+      "Kujou Sara",
+      "Yae Miko",
+      "Kokomi",
+      "Nahida"
+    ],
+    "premium_team_details": [
+      "- Kujou Sara is an amazing ATK buffer for Electro DPS characters like Yae Miko.",
+      "- Kokomi is there for heals and also works well with Nahida and Yae for consistent reactions.",
+      "- Nahida increases the DMG of Kujou Sara through Catalyst reactions."
+    ],
+    "premium_team_ids": [
+      "kujou-sara",
+      "yae-miko",
+      "sangonomiya-kokomi",
+      "nahida"
+    ]
+  },
+  {
+    "id": "kuki-shinobu",
+    "name": "Kuki Shinobu",
+    "premium_team_roles": [
+      "Enabler",
+      "DPS",
+      "Support",
+      "Reaction"
+    ],
+    "premium_team": [
+      "Kuki Shinobu",
+      "Childe",
+      "Dendro Traveler",
+      "Collei"
+    ],
+    "premium_team_details": [
+      "- Kuki Shinobi would be an off-field enabler that will only be on-field during Elemental Skill and Burst.",
+      "- Childe has an amazing Hydro infliction that will produce several blooms easily..",
+      "- Dendro Traveler and Collei provides the off-field Dendro allowing the continuous production of Blooms.",
+      "- Dendro resonance increases the team's Elemental Mastery producing higher damage."
+    ],
+    "premium_team_ids": [
+      "kuki-shinobu",
+      "tartaglia",
+      "dendro-traveler",
+      "collei"
+    ]
+  },
+  {
+    "id": "layla",
+    "name": "Layla",
+    "premium_team_roles": [
+      "Shield",
+      "DPS",
+      "Sub-DPS",
+      "Heal"
+    ],
+    "premium_team": [
+      "Layla",
+      "Ayaka",
+      "Yelan",
+      "Kokomi"
+    ],
+    "premium_team_details": [
+      "- Layla works well in Freeze comps and Physical teams.",
+      "- Kokomi and Yelan produces Hydro resonance furthering the strength of the shields and damage of Layla.",
+      "- Ayaka will be the main damage dealer."
+    ],
+    "premium_team_ids": [
+      "layla",
+      "kamisato-ayaka",
+      "yelan",
+      "sangonomiya-kokomi"
+    ]
+  },
+  {
+    "id": "lisa",
+    "name": "Lisa",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Alhaitham",
+      "Fischl",
+      "Lisa",
+      "Yaoyao"
+    ],
+    "premium_team_details": [
+      "- An Spread team comp",
+      "- Lisa will be able to proc Spread with Alhaitham, and add DEF shred as well",
+      "- Fischl will ensure that Lisa will have her Burst up a lot",
+      "- Alhaitham as the main DPS can fully take advantage of the aggravate from the team",
+      "- Yaoyao can provide additional Dendro application, but she will most be used for Support/Healing"
+    ],
+    "premium_team_ids": [
+      "alhaitham",
+      "fischl",
+      "lisa",
+      "yaoyao"
+    ]
+  },
+  {
+    "id": "mika",
+    "name": "Mika",
+    "premium_team_roles": [
+      "Heal",
+      "Main DPS",
+      "Sub DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Mika",
+      "Eula",
+      "Raiden Shogun",
+      "Zhongli"
+    ],
+    "premium_team_details": [
+      "- Eula will be the main DPS in this team comp",
+      "- Raiden will periodically deal Electro DMG for triggering superconduct",
+      "- Zhongli will protect the active character with a shield that can decrease the Elemental & Physical resistance of nearby enemies and will also provide resistance to interruption.",
+      "- Mika will increase Eula's damage output via Elemental Skill & will restore HP when needed. Can also provide additional DMG via Ocean Hued Clam."
+    ],
+    "premium_team_ids": [
+      "mika",
+      "eula",
+      "raiden-shogun",
+      "zhongli"
+    ]
+  },
+  {
+    "id": "ningguang",
+    "name": "Ningguang",
+    "premium_team_roles": [
+      "Main DPS",
+      "Support",
+      "Sub DPS",
+      "Sub DPS"
+    ],
+    "premium_team": [
+      "Ningguang",
+      "Zhongli",
+      "Raiden Shogun",
+      "Yelan"
+    ],
+    "premium_team_details": [
+      "- Zhongli provides a durable shield that can be sustained & monolith that enables Ningguang's Skill to pulsate that deals damage to nearby enemies.",
+      "└ With Geo Resonance, gain DMG Bonus & shred the enemies' Geo RES.",
+      "- Raiden is a powerful Electro DPS who can also increase Elemental Burst DMG of everyone in the team.",
+      "- Yelan works well with Ningguang since Ningguang uses Normal & Charged Attack a lot."
+    ],
+    "premium_team_ids": [
+      "ningguang",
+      "zhongli",
+      "raiden-shogun",
+      "yelan"
+    ]
+  },
+  {
+    "id": "noelle",
+    "name": "Noelle",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Noelle",
+      "Albedo",
+      "Gorou",
+      "Zhongli"
+    ],
+    "premium_team_details": [
+      "- A Mono-Geo team for Noelle",
+      "- Funnel all of the energy you get from both Zhongli and Albedo to Noelle",
+      "- On-field abilities will provide additional DMG while Noelle is on the field",
+      "- Gorou will work well with a Mono-Geo comp",
+      "- Zhongli's shield will keep Noelle protected"
+    ],
+    "premium_team_ids": [
+      "noelle",
+      "albedo",
+      "gorou",
+      "zhongli"
+    ]
+  },
+  {
+    "id": "razor",
+    "name": "Razor",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Razor",
+      "Fischl",
+      "Yun Jin",
+      "Qiqi"
+    ],
+    "premium_team_details": [
+      "- A Superconduct team for Razor",
+      "- Fischl will act as a battery for Razor",
+      "- Yun Jin will increase the damage of Razor's Normal Attack while also providing a shield",
+      "- Qiqi will provide constant Cryo application. Best if she has Sacrifical Sword for a good Skill uptime"
+    ],
+    "premium_team_ids": [
+      "razor",
+      "fischl",
+      "yun-jin",
+      "qiqi"
+    ]
+  },
+  {
+    "id": "rosaria",
+    "name": "Rosaria",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS / Healer",
+      "Support"
+    ],
+    "premium_team": [
+      "Rosaria",
+      "Raiden Shogun",
+      "Yun Jin",
+      "Diona"
+    ],
+    "premium_team_details": [
+      "- Physical Main DPS team with Rosaria as the main DPS",
+      "- Raiden Shogun will provide constant Electro application for Superconduct",
+      "- Diona will provide shield and healing",
+      "- Yun Jin will increase the damage of Rosaria's Normal Attack"
+    ],
+    "premium_team_ids": [
+      "rosaria",
+      "raiden-shogun",
+      "yun-jin",
+      "diona"
+    ]
+  },
+  {
+    "id": "sayu",
+    "name": "Sayu",
+    "premium_team_roles": [
+      "Heal",
+      "DPS",
+      "Reaction",
+      "Support"
+    ],
+    "premium_team": [
+      "Sayu",
+      "Ganyu",
+      "Mona",
+      "Layla"
+    ],
+    "premium_team_details": [
+      "- Sayu will spread Viridescent Venerer debuff while providing needed healing for the team and additional DMG.",
+      "- Ganyu will be the main DPS dealing powerful shots to enemies.",
+      "- Mona and will help Ganyu have a safer playing field by freezing enemies.",
+      "- Layla provides shields for the team."
+    ],
+    "premium_team_ids": [
+      "sayu",
+      "ganyu",
+      "mona",
+      "layla"
+    ]
+  },
+  {
+    "id": "shikanoin-heizou",
+    "name": "Shikanoin Heizou",
+    "premium_team_roles": [
+      "Damage",
+      "Damage",
+      "Damage/Buff",
+      "Heal"
+    ],
+    "premium_team": [
+      "Shikanoin Heizou",
+      "Fischl",
+      "Xiangling",
+      "Barbara"
+    ],
+    "premium_team_details": [
+      "- Heizou, as the main DPS, can deal swirl damage periodically which inflicts additional damage.",
+      "- Fischl provides consistent off-field Electro DPS and can produce either swirl-electro or overload elemental reaction.",
+      "- Xiangling's Guoba gives additional ATK & her elemental burst is great for off-field Pyro DPS. She can also be acquired for free when you finish Abyss 3-3.",
+      "- Barbara, as a free hero, should be the go-to healer. When equipped with Thrilling Tales of Dragon Slayers, she can provide additional ATK to the next character that will be switched."
+    ],
+    "premium_team_ids": [
+      "shikanoin-heizou",
+      "fischl",
+      "xiangling",
+      "barbara"
+    ]
+  },
+  {
+    "id": "sucrose",
+    "name": "Sucrose",
+    "premium_team_roles": [
+      "Support",
+      "Main DPS",
+      "Sub DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Sucrose",
+      "Klee",
+      "Yelan",
+      "Bennett"
+    ],
+    "premium_team_details": [
+      "- Sucrose can gather the enemies enabling Klee & Yelan to execute combos easily. She can also amplify the vaporize DMG by increasing the Elemental Mastery of DPS & Sub DPS",
+      "└ Can also increase Elemental DMG at constellation 6",
+      "- Klee acts as the main DPS who can consistently deal Pyro DMG that can be swirled by Sucrose & proc vaporize with Yelan. In addition, the remaining mines from her Skill can be pulled with Sucrose's Skill & Burst.",
+      "└ Can decrease the enemies' DEF at constellation 2",
+      "- Bennett enables Pyro resonance with Klee. He can also provide cleansing heal & ATK buff with his Burst.",
+      "- Yelan's Burst can perform coordinated Hydro attacks with Klee that can inflict powerful vaporize DMG."
+    ],
+    "premium_team_ids": [
+      "sucrose",
+      "klee",
+      "yelan",
+      "bennett"
+    ]
+  },
+  {
+    "id": "thoma",
+    "name": "Thoma",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS / Enabler",
+      "Enabler"
+    ],
+    "premium_team": [
+      "Ayato",
+      "Nahida",
+      "Kazuha",
+      "Thoma"
+    ],
+    "premium_team_details": [
+      "- A burgeon team comp for Thoma",
+      "- Nahida and Ayato will provide continuous Dendro Cores",
+      "- Thoma's slow Pyro application will insure you deal Burgeon instead of burning",
+      "- Kazuha will be able to increase the team's damage and deal shred to enemies"
+    ],
+    "premium_team_ids": [
+      "ayato",
+      "nahida",
+      "kaedehara-kazuha",
+      "thoma"
+    ]
+  },
+  {
+    "id": "xiangling",
+    "name": "Xiangling",
+    "premium_team_roles": [
+      "Sub DPS",
+      "Support",
+      "Main DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Xiangling",
+      "Bennett",
+      "Childe",
+      "Kazuha"
+    ],
+    "premium_team_details": [
+      "- Xiangling will act as a Sub DPS dealing Pyro to enemies off-field.",
+      "- With Bennett, her attacks will be further boosted with resonance and buff from Burst.",
+      "- Childe is a great as an on-field DPS with Xiangling since Childe will be able to deal powerful Vaporize damage consistently.",
+      "- Kazuha will buff the damage of Childe and Xiangling."
+    ],
+    "premium_team_ids": [
+      "xiangling",
+      "bennett",
+      "tartaglia",
+      "kaedehara-kazuha"
+    ]
+  },
+  {
+    "id": "xingqiu",
+    "name": "Xingqiu",
+    "premium_team_roles": [
+      "Sub DPS",
+      "Sub DPS",
+      "Main DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Xingqiu",
+      "Yelan",
+      "Hu Tao",
+      "Zhongli"
+    ],
+    "premium_team_details": [
+      "- Xingqiu and Yelan produces Hydro Resonance increasing the HP and boosting the damage of Hu Tao through reaction.",
+      "- Xingqiu and Hu Tao produces consistent Vaporize reaction.",
+      "- Hydro Resonance also affects the HP shield of Zhongli.",
+      "- Zhongli can also increase the damage that Xingqiu produces because of its universal debuff from shields."
+    ],
+    "premium_team_ids": [
+      "xingqiu",
+      "yelan",
+      "hu-tao",
+      "zhongli"
+    ]
+  },
+  {
+    "id": "xinyan",
+    "name": "Xinyan",
+    "premium_team_roles": [
+      "Sub-DPS",
+      "DPS",
+      "Support",
+      "Support"
+    ],
+    "premium_team": [
+      "Xinyan",
+      "Eula",
+      "Raiden Shogun",
+      "Bennett"
+    ],
+    "premium_team_details": [
+      "- Xinyan can increase the Physical DMG of DPS with her shields making her a great Sub-DPS for Eula.",
+      "- Eula will be the main DPS and can also deal Melt with Xinyan.",
+      "- Fischl can activate super-conduct with Eula enabling Xinyan's burst to deal more DMG.",
+      "- Bennett's Elemental Burst will work well with Xinyan as it can heal her and amp up her damage further. Additionally, Bennett and Xinyan will have Pyro Resonance"
+    ],
+    "premium_team_ids": [
+      "xinyan",
+      "eula",
+      "raiden-shogun",
+      "bennett"
+    ]
+  },
+  {
+    "id": "yanfei",
+    "name": "Yanfei",
+    "premium_team_roles": [
+      "DPS",
+      "Reaction",
+      "Shield",
+      "Heal"
+    ],
+    "premium_team": [
+      "Yanfei",
+      "Xingqiu",
+      "Zhongli",
+      "Bennett"
+    ],
+    "premium_team_details": [
+      "- Yanfei will deal DMG to Hydro inflicted enemies.",
+      "- Xingqiu will inflict constant Hydro to enemies.",
+      "- Zhongli will debuff the enemies with his shields and crowd control using his Burst.",
+      "- Bennett will give buff to the whole team with his Burst."
+    ],
+    "premium_team_ids": [
+      "yanfei",
+      "xingqiu",
+      "zhongli",
+      "bennett"
+    ]
+  },
+  {
+    "id": "yaoyao",
+    "name": "Yaoyao",
+    "premium_team_roles": [
+      "Heal",
+      "DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "premium_team": [
+      "Yaoyao",
+      "Cyno",
+      "Nahida",
+      "Fischl"
+    ],
+    "premium_team_details": [
+      "- Yaoyao can be an off-field dendro and healer.",
+      "- Cyno works well with any off-field Dendro because he needs reactions.",
+      "- Fischl is for energy regeneration of the party.",
+      "- Nahida for Elemental Resonance."
+    ],
+    "premium_team_ids": [
+      "yaoyao",
+      "cyno",
+      "nahida",
+      "fischl"
+    ]
+  },
+  {
+    "id": "yun-jin",
+    "name": "Yun Jin",
+    "premium_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS / Healer",
+      "Support"
+    ],
+    "premium_team": [
+      "Yoimiya",
+      "Raiden Shogun",
+      "Jean",
+      "Yun Jin"
+    ],
+    "premium_team_details": [
+      "- An overload team wherein Yun Jin increases Yoimiya's damage",
+      "- Bulk of the damage will come from Yoimiya and Raiden Shogun",
+      "- Jean will provide good healing for the team and elemental shred"
+    ],
+    "premium_team_ids": [
+      "yoimiya",
+      "raiden-shogun",
+      "jean",
+      "yun-jin"
+    ]
+  }
+]
