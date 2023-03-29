@@ -69,10 +69,14 @@ watchEffect(() => {
       <p v-if="characterInfo.gender">
         <img
           v-if="characterInfo.gender === 'Male'"
-          src="./icons/gender/male-gender.png"
+          src="../../public/icons/gender/male-gender.png"
           class="w-6"
         />
-        <img v-else src="./icons/gender/female-gender.png" class="w-6" />
+        <img
+          v-else
+          src="../../public/icons/gender/female-gender.png"
+          class="w-6"
+        />
       </p>
       <p v-if="characterInfo.title">Title: {{ characterInfo.title }}</p>
       <p>Vision: {{ characterInfo.vision }}</p>
