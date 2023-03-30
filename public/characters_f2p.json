@@ -1,0 +1,1808 @@
+[
+  {
+    "id": "albedo",
+    "name": "Albedo",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Xiangling",
+      "Xingqiu",
+      "Albedo",
+      "Fischl"
+    ],
+    "f2p_team_details": [
+      "- A relatively free-to-play team comp for Albedo",
+      "- Full team includes continuous damage, good to proc Albedo's skill"
+    ],
+    "f2p_team_ids": [
+      "xiangling",
+      "xingqiu",
+      "albedo",
+      "fischl"
+    ]
+  },
+  {
+    "id": "alhaitham",
+    "name": "Alhaitham",
+    "f2p_team_roles": [
+      "Main",
+      "Sub-DPS",
+      "Resonance",
+      "Support"
+    ],
+    "f2p_team": [
+      "Alhaitham",
+      "Fischl",
+      "Collei",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- This team is a Spread-Hyperbloom team that is composed of easily obtained 4 star characters.",
+      "-Barbara will be the healer and off-field Hydro.",
+      "- Fischl for off-field Electro.",
+      "- Collei for resonance buff.",
+      "Alhaitham for main DPS."
+    ],
+    "f2p_team_ids": [
+      "alhaitham",
+      "fischl",
+      "collei",
+      "barbara"
+    ]
+  },
+  {
+    "id": "aloy",
+    "name": "Aloy",
+    "f2p_team_roles": [
+      "DPS",
+      "Reaction",
+      "Support",
+      "Healing"
+    ],
+    "f2p_team": [
+      "Aloy",
+      "Xiangling",
+      "Anemo Traveler",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- Aloy will act as the main DPS dealing powerful Cryo Attacks.",
+      "- Xiangling will spread Pyro enabling Aloy to deal powerful Melt damage.",
+      "- Anemo Traveler can crowd control the enemies and deal elemental debuff.",
+      "- Barbara will handle the healing. She will also enable Freezing."
+    ],
+    "f2p_team_ids": [
+      "aloy",
+      "xiangling",
+      "anemo-traveler",
+      "barbara"
+    ]
+  },
+  {
+    "id": "anemo-traveler",
+    "name": "Anemo Traveler",
+    "f2p_team_roles": [
+      "Support",
+      "Main DPS",
+      "Sub DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Anemo Traveler",
+      "Lisa",
+      "Xiangling",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- Anemo Traveler can shred the elemental resistance of enemies.",
+      "- Lisa is a great Electro DPS that can decrease the enemies' DEF with her Burst. In addition, Electro is great to pair with Pyro & Hydro as the synergy between the 3 mentioned elements compliments each other.",
+      "- Xiangling's abilities can deal strong Pyro DMG that can also proc overload & vaporize.",
+      "- Barbara is a great healer & Hydro applicator."
+    ],
+    "f2p_team_ids": [
+      "anemo-traveler",
+      "lisa",
+      "xiangling",
+      "barbara"
+    ]
+  },
+  {
+    "id": "kamisato-ayaka",
+    "name": "Ayaka",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Sub-DPS / Healer"
+    ],
+    "f2p_team": [
+      "Ayaka",
+      "Xiangling",
+      "Xingqiu",
+      "Diona"
+    ],
+    "f2p_team_details": [
+      "- A Free-to-play friendly multi-reaction team for Ayaka",
+      "- Diona can act as a battery for Ayaka",
+      "- Xingqiu and Xiangling will provide multiple reactions with Ayaka as a main DPS"
+    ],
+    "f2p_team_ids": [
+      "kamisato-ayaka",
+      "xiangling",
+      "xingqiu",
+      "diona"
+    ]
+  },
+  {
+    "id": "ayato",
+    "name": "Ayato",
+    "f2p_team_roles": [
+      "DPS",
+      "Combo",
+      "Heal",
+      "Support"
+    ],
+    "f2p_team": [
+      "Ayato",
+      "Xiangling",
+      "Barbara",
+      "Dendro Traveler"
+    ],
+    "f2p_team_details": [
+      "- Ayato will act as the Main DPS of the team dealing vaporize damage with Xiangling.",
+      "- Xiangling will spread Pyro with her skill and burst for reactions.",
+      "- Barbara will provide Hydro DMG increase through resonance and constellations while providing powerful heals.",
+      "- Dendro Traveler can provide off-field Dendro that allows bloom to be produced which provides additional damage for the team."
+    ],
+    "f2p_team_ids": [
+      "ayato",
+      "xiangling",
+      "barbara",
+      "dendro-traveler"
+    ]
+  },
+  {
+    "id": "tartaglia",
+    "name": "Childe (Tartaglia)",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Childe",
+      "Xiangling",
+      "Sucrose",
+      "Bennett"
+    ],
+    "f2p_team_details": [
+      "- Vaporize-focused team comp for Childe",
+      "- Xiangling is actually the main DMG dealer, reverse vaporizing Childe's hydro"
+    ],
+    "f2p_team_ids": [
+      "tartaglia",
+      "xiangling",
+      "sucrose",
+      "bennett"
+    ]
+  },
+  {
+    "id": "cyno",
+    "name": "Cyno",
+    "f2p_team_roles": [
+      "DPS",
+      "Sub-DPS",
+      "Reaction",
+      "Heal"
+    ],
+    "f2p_team": [
+      "Cyno",
+      "Fischl",
+      "Dendro Traveler",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- This team functions the same as above but with easily obtained character."
+    ],
+    "f2p_team_ids": [
+      "cyno",
+      "fischl",
+      "dendro-traveler",
+      "barbara"
+    ]
+  },
+  {
+    "id": "dehya",
+    "name": "Dehya",
+    "f2p_team_roles": [
+      "Main",
+      "Sub-DPS",
+      "Support",
+      "Healer"
+    ],
+    "f2p_team": [
+      "Dehya",
+      "Collei",
+      "Sucrose",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- This team is a Burgeon-Vaporize comp with Dehya as the main DPS",
+      "- Sucrose is a good support with CC & EM buff for increased damage from burgeon & vaporize. She can also compress the Dendro cores together with her CC"
+    ],
+    "f2p_team_ids": [
+      "dehya",
+      "collei",
+      "sucrose",
+      "barbara"
+    ]
+  },
+  {
+    "id": "dendro-traveler",
+    "name": "Dendro Traveler",
+    "f2p_team_roles": [
+      "Sub-DPS",
+      "Support",
+      "DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Dendro Traveler",
+      "Fischl",
+      "Lisa",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- Lisa can deal more powerful Electro damage with Dendro on its side.",
+      "- Fischl is there for energy and additional electro damage.",
+      "- Barbara can heal and also spread hydro to opponents for other dendro reactions such as hyperbloom."
+    ],
+    "f2p_team_ids": [
+      "dendro-traveler",
+      "fischl",
+      "lisa",
+      "barbara"
+    ]
+  },
+  {
+    "id": "diluc",
+    "name": "Diluc",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Diluc",
+      "Xingqiu",
+      "Fischl",
+      "Sucrose"
+    ],
+    "f2p_team_details": [
+      "- A generally Free-to-Play OverVape comp for Diluc"
+    ],
+    "f2p_team_ids": [
+      "diluc",
+      "xingqiu",
+      "fischl",
+      "sucrose"
+    ]
+  },
+  {
+    "id": "electro-traveler",
+    "name": "Electro Traveler",
+    "f2p_team_roles": [
+      "Support",
+      "Damage",
+      "Damage",
+      "Healing"
+    ],
+    "f2p_team": [
+      "Electro Traveler",
+      "Xiangling",
+      "Kaeya",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- Xiangling will act as the main DPS",
+      "- Overcharged and additional damage with Electro Traveler",
+      "- Can easily work as a sub-dps and create Superconduct with Electro Traveler",
+      "- Heal Electro Traveler both when she's in and out of the field"
+    ],
+    "f2p_team_ids": [
+      "electro-traveler",
+      "xiangling",
+      "kaeya",
+      "barbara"
+    ]
+  },
+  {
+    "id": "eula",
+    "name": "Eula",
+    "f2p_team_roles": [
+      "DPS",
+      "Sub-DPS",
+      "Heal",
+      "Support"
+    ],
+    "f2p_team": [
+      "Eula",
+      "Fischl",
+      "Diona",
+      "Lisa"
+    ],
+    "f2p_team_details": [
+      "- Eula will be the main Physical DMG Dealer.",
+      "- Fischl gives energy to Eula while spreading Electro.",
+      "- Diona provides shields and healing.",
+      "- Lisa is there for additional Electro DMG and Defense shred."
+    ],
+    "f2p_team_ids": [
+      "eula",
+      "fischl",
+      "diona",
+      "lisa"
+    ]
+  },
+  {
+    "id": "ganyu",
+    "name": "Ganyu",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Ganyu",
+      "Barbara",
+      "Sucrose",
+      "Diona"
+    ],
+    "f2p_team_details": [
+      "- A relatively free-to-play freeze comp",
+      "- Sucrose and Barbara will be able to keep up hydro application"
+    ],
+    "f2p_team_ids": [
+      "ganyu",
+      "barbara",
+      "sucrose",
+      "diona"
+    ]
+  },
+  {
+    "id": "geo-traveler",
+    "name": "Geo Traveler",
+    "f2p_team_roles": [
+      "Support DPS",
+      "Main DPS & Healer",
+      "Sub DPS",
+      "Sub DPS"
+    ],
+    "f2p_team": [
+      "Geo Traveler",
+      "Noelle",
+      "Xiangling",
+      "Kaeya"
+    ],
+    "f2p_team_details": [
+      "- Consistently use Geo Traveler's Skill & Burst. Stay inside the radius of Burst Geo construct to gain additional CRIT Rate.",
+      "- Noelle is a great healer who has a shield and can also act as a main DPS.",
+      "- Xiangling is a great off-field Pyro DPS who can proc melt reaction with Kaeya.",
+      "- Kaeya is a great Cryo DPS who can apply Cryo that can proc melt and deal additional damage."
+    ],
+    "f2p_team_ids": [
+      "geo-traveler",
+      "noelle",
+      "xiangling",
+      "kaeya"
+    ]
+  },
+  {
+    "id": "hu-tao",
+    "name": "Hu Tao",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Hu Tao",
+      "Xingqiu",
+      "Sucrose",
+      "Diona"
+    ],
+    "f2p_team_details": [
+      "- A relatively free-to-play team comp for Hu Tao",
+      "- Full team includes on-field support abilities, good for a Hu Tao main DPS"
+    ],
+    "f2p_team_ids": [
+      "hu-tao",
+      "xingqiu",
+      "sucrose",
+      "diona"
+    ]
+  },
+  {
+    "id": "arataki-itto",
+    "name": "Itto",
+    "f2p_team_roles": [
+      "Support",
+      "Sub-DPS",
+      "Battery",
+      "Shield & Heal"
+    ],
+    "f2p_team": [
+      "Arataki Itto",
+      "Xiangling",
+      "Geo Traveler",
+      "Noelle"
+    ],
+    "f2p_team_details": [
+      "- Similar to the previous team, Itto will be the main DPS.",
+      "- Noelle will be covering for Arataki Itto during his down time.",
+      "- Geo Traveler will be giving energy with his Elemental skill and provide additional damage through Elemental Burst.",
+      "- Xiangling will mainly be for off field DMG but she can be any off field DMG dealing characters."
+    ],
+    "f2p_team_ids": [
+      "arataki-itto",
+      "xiangling",
+      "geo-traveler",
+      "noelle"
+    ]
+  },
+  {
+    "id": "jean",
+    "name": "Jean",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Jean",
+      "Rosaria",
+      "Xingqiu",
+      "Sucrose"
+    ],
+    "f2p_team_details": [
+      "- Freeze build with Jean as the main DPS"
+    ],
+    "f2p_team_ids": [
+      "jean",
+      "rosaria",
+      "xingqiu",
+      "sucrose"
+    ]
+  },
+  {
+    "id": "kaedehara-kazuha",
+    "name": "Kazuha",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Xiangling",
+      "Xingqiu",
+      "Kazuha",
+      "Bennett"
+    ],
+    "f2p_team_details": [
+      "- A relatively free-to-play team comp for Kazuha",
+      "- Focus will be on increasing the Elemental DMG and the Elemental Reaction dmg of the whole team"
+    ],
+    "f2p_team_ids": [
+      "xiangling",
+      "xingqiu",
+      "kaedehara-kazuha",
+      "bennett"
+    ]
+  },
+  {
+    "id": "keqing",
+    "name": "Keqing",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Sub-DPS / Healer"
+    ],
+    "f2p_team": [
+      "Keqing",
+      "Layla",
+      "Fischl",
+      "Diona"
+    ],
+    "f2p_team_details": [
+      "- A Free-to-play friendly physical teamp comp for Keqing",
+      "- Diona and Layla will provide shields and constant cryo application to proc Superconduct",
+      "- Fischl can provide additional Electro DMG and proc Superconduct as well"
+    ],
+    "f2p_team_ids": [
+      "keqing",
+      "layla",
+      "fischl",
+      "diona"
+    ]
+  },
+  {
+    "id": "klee",
+    "name": "Klee",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Enabler",
+      "Support"
+    ],
+    "f2p_team": [
+      "Klee",
+      "Xingqiu",
+      "Sucrose",
+      "Bennett"
+    ],
+    "f2p_team_details": [
+      "- A vaporize team centered on Klee",
+      "- Xingqiu will do Vape whenever Klee does a Normal Attack with his Burst",
+      "- Sucrose will provide Elemental Shred",
+      "- Bennett will have Pyro resonance, ATK buff & healing for the team"
+    ],
+    "f2p_team_ids": [
+      "klee",
+      "xingqiu",
+      "sucrose",
+      "bennett"
+    ]
+  },
+  {
+    "id": "sangonomiya-kokomi",
+    "name": "Kokomi",
+    "f2p_team_roles": [
+      "Sub-DPS",
+      "Main DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Kokomi",
+      "Lisa",
+      "Fischl",
+      "Anemo Traveler"
+    ],
+    "f2p_team_details": [
+      "- A relatively free-to-play team comp for Kokomi",
+      "- Focus will be on Electro Charged with Lisa increase damage through her DEF shred"
+    ],
+    "f2p_team_ids": [
+      "sangonomiya-kokomi",
+      "lisa",
+      "fischl",
+      "anemo-traveler"
+    ]
+  },
+  {
+    "id": "mona",
+    "name": "Mona",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Enabler",
+      "Support"
+    ],
+    "f2p_team": [
+      "Mona",
+      "Layla",
+      "Sucrose",
+      "Diona"
+    ],
+    "f2p_team_details": [
+      "- A freeze comp for Mona",
+      "- Layla and Diona together can easily do Permafreeze with Mona",
+      "- Sucrose will apply Elemental Shred"
+    ],
+    "f2p_team_ids": [
+      "mona",
+      "layla",
+      "sucrose",
+      "diona"
+    ]
+  },
+  {
+    "id": "nahida",
+    "name": "Nahida",
+    "f2p_team_roles": [
+      "Main",
+      "Sub-DPS",
+      "Resonance",
+      "Support"
+    ],
+    "f2p_team": [
+      "Nahida",
+      "Xingqiu",
+      "Dendro Traveler",
+      "Kuki Shinobu"
+    ],
+    "f2p_team_details": [
+      "- Nahida will be the on-field damage dealer focusing on Dendro reactions.",
+      "- Xingqiu enables Bloom to happen and provide additional damage.",
+      "- Dendro Traveler provides Elemental Mastery through Resonance.",
+      "- Kuki Shinobu does not only heal but also trigger Hyperbloom for powerful damage."
+    ],
+    "f2p_team_ids": [
+      "nahida",
+      "xingqiu",
+      "dendro-traveler",
+      "kuki-shinobu"
+    ]
+  },
+  {
+    "id": "nilou",
+    "name": "Nilou",
+    "f2p_team_roles": [
+      "Reaction",
+      "Heal",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Nilou",
+      "Barbara",
+      "Dendro Traveler",
+      "Collei"
+    ],
+    "f2p_team_details": [
+      "- This team functions the same as above but has less heal and hydro infliction because Barbara has a less infliction range compared to Kokomi."
+    ],
+    "f2p_team_ids": [
+      "nilou",
+      "barbara",
+      "dendro-traveler",
+      "collei"
+    ]
+  },
+  {
+    "id": "qiqi",
+    "name": "Qiqi",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Sub-DPS / Healer"
+    ],
+    "f2p_team": [
+      "Kaeya",
+      "FIschl",
+      "Kuki Shinobu",
+      "Qiqi"
+    ],
+    "f2p_team_details": [
+      "- A Free-to-play friendly superconduct teamp comp for Qiqi"
+    ],
+    "f2p_team_ids": [
+      "kaeya",
+      "fischl",
+      "kuki-shinobu",
+      "qiqi"
+    ]
+  },
+  {
+    "id": "raiden-shogun",
+    "name": "Raiden Shogun",
+    "f2p_team_roles": [
+      "Sub-DPS",
+      "Enabler",
+      "Support",
+      "Support"
+    ],
+    "f2p_team": [
+      "Raiden Shogun",
+      "Barbara",
+      "Collei",
+      "Dendro Traveler"
+    ],
+    "f2p_team_details": [
+      "- Budget Hyperbloom Comp for Raiden Shogun.",
+      "- Barbara will mainly be on-field to spread Hydro.",
+      "- Collei and Dendro Traveler for off-field Dendro.",
+      "- All the bloom will be hit by Raiden Shogun's Skill creating a continues Hyperbloom reaction",
+      "- Great team that does not require many investments."
+    ],
+    "f2p_team_ids": [
+      "raiden-shogun",
+      "barbara",
+      "collei",
+      "dendro-traveler"
+    ]
+  },
+  {
+    "id": "wanderer",
+    "name": "Scaramouche (Wanderer)",
+    "f2p_team_roles": [
+      "Main",
+      "Sub-DPS",
+      "Resonance",
+      "Support"
+    ],
+    "f2p_team": [
+      "Wanderer",
+      "Xingqiu",
+      "Xiangling",
+      "Bennett"
+    ],
+    "f2p_team_details": [
+      "- An Anemo character like Scaramouche can replace Sucrose in the National Team."
+    ],
+    "f2p_team_ids": [
+      "wanderer",
+      "xingqiu",
+      "xiangling",
+      "bennett"
+    ]
+  },
+  {
+    "id": "shenhe",
+    "name": "Shenhe",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Rosaria",
+      "Fischl",
+      "Shenhe",
+      "Kuki Shinobu"
+    ],
+    "f2p_team_details": [
+      "- A relatively free-to-play team comp for Shenhe",
+      "- This team comp will work around increasing Physical DMG for the team through superconduct"
+    ],
+    "f2p_team_ids": [
+      "rosaria",
+      "fischl",
+      "shenhe",
+      "kuki-shinobu"
+    ]
+  },
+  {
+    "id": "tighnari",
+    "name": "Tighnari",
+    "f2p_team_roles": [
+      "Damage",
+      "Reaction",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Tighnari",
+      "Lisa",
+      "Collei",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- Tighnari, similar to premium build, will be the main DPS.",
+      "- Lisa can help trigger reactions that will boost Tighnari's damage.",
+      "- Collei will provide Dendro Resonance and an excellent Sub-DPS",
+      "- Barbara can heal and also spread hydro to opponents for other dendro reactions such as hyperbloom."
+    ],
+    "f2p_team_ids": [
+      "tighnari",
+      "lisa",
+      "collei",
+      "barbara"
+    ]
+  },
+  {
+    "id": "venti",
+    "name": "Venti",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Fischl",
+      "Dendro Traveler",
+      "Collei",
+      "Venti"
+    ],
+    "f2p_team_details": [
+      "- A generally Free-to-Play Aggravate team comp for Venti"
+    ],
+    "f2p_team_ids": [
+      "fischl",
+      "dendro-traveler",
+      "collei",
+      "venti"
+    ]
+  },
+  {
+    "id": "xiao",
+    "name": "Xiao",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Enabler",
+      "Support"
+    ],
+    "f2p_team": [
+      "Xiao",
+      "Xiangling",
+      "Sucrose",
+      "Bennett"
+    ],
+    "f2p_team_details": [
+      "- A relatively easy-to-build team comp for Xiao",
+      "- Bennett & Xiangling for Pyro resonance",
+      "- Xiangling's Burst will provide additional DPS while Xiao is using his Burst",
+      "- Sucrose will act as a battery"
+    ],
+    "f2p_team_ids": [
+      "xiao",
+      "xiangling",
+      "sucrose",
+      "bennett"
+    ]
+  },
+  {
+    "id": "yae-miko",
+    "name": "Yae Miko",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Yae Miko",
+      "Xingqiu",
+      "Fischl",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- Electro-charged team for Yae",
+      "- Having Fischl will provide energy for Yae Miko for her to consistently use her Burst",
+      "- Barbara will provide full team healing"
+    ],
+    "f2p_team_ids": [
+      "yae-miko",
+      "xingqiu",
+      "fischl",
+      "barbara"
+    ]
+  },
+  {
+    "id": "yelan",
+    "name": "Yelan",
+    "f2p_team_roles": [
+      "Damage",
+      "Damage",
+      "Damage",
+      "Support"
+    ],
+    "f2p_team": [
+      "Yelan",
+      "Beidou",
+      "Fischl",
+      "Bennett"
+    ],
+    "f2p_team_details": [
+      "- Yelan can deal powerful Hydro damage that gives assistance to the active character.",
+      "- Beidou stands as the main DPS that deals Electro DMG and can periodically trigger electro-charged damage to the enemies. She can parry enemy attacks with her elemental skill which increases the survivability of the team.",
+      "- When equipped with Favonius Warbow, Fischl can provide additional energy for Yelan. Although her elemental burst does not much damage, it allows her elemental skill, Oz, to deal consistent Electro DMG.",
+      "- Bennett increases the overall damage of the team and provide healing when needed. Since he does not apply Pyro too much, the Electro-Charged chain can't be broken easily."
+    ],
+    "f2p_team_ids": [
+      "yelan",
+      "beidou",
+      "fischl",
+      "bennett"
+    ]
+  },
+  {
+    "id": "yoimiya",
+    "name": "Yoimiya",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Yoimiya",
+      "Xingqiu",
+      "Fischl",
+      "Bennett"
+    ],
+    "f2p_team_details": [
+      "- Multi-reaction focused team comp for Yoimiya",
+      "- Works similar to the premium team, but with an easy to build team comp"
+    ],
+    "f2p_team_ids": [
+      "yoimiya",
+      "xingqiu",
+      "fischl",
+      "bennett"
+    ]
+  },
+  {
+    "id": "zhongli",
+    "name": "Zhongli",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Sub-DPS / Shielder"
+    ],
+    "f2p_team": [
+      "Noelle",
+      "Lisa",
+      "Geo Traveler",
+      "Zhongli"
+    ],
+    "f2p_team_details": [
+      "- Geo Traveler will act as a battery for Noelle",
+      "- Lisa will provide additional DEF shred with her Burst",
+      "- Zhongli will provide support abilities and shield"
+    ],
+    "f2p_team_ids": [
+      "noelle",
+      "lisa",
+      "geo-traveler",
+      "zhongli"
+    ]
+  },
+  {
+    "id": "amber",
+    "name": "Amber",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Amber",
+      "Rosaria",
+      "Fischl",
+      "Diona"
+    ],
+    "f2p_team_details": [
+      "- Superconduct team for a Physical DMG build Amber"
+    ],
+    "f2p_team_ids": [
+      "amber",
+      "rosaria",
+      "fischl",
+      "diona"
+    ]
+  },
+  {
+    "id": "barbara",
+    "name": "Barbara",
+    "f2p_team_roles": [
+      "Support",
+      "Sub DPS",
+      "Support",
+      "DPS"
+    ],
+    "f2p_team": [
+      "Barbara",
+      "Dendro Traveler",
+      "Collei",
+      "Lisa"
+    ],
+    "f2p_team_details": [
+      "- Team comp can trigger Electro-charged, Hyperbloom, Aggravate, Quicken, & Spread reactions"
+    ],
+    "f2p_team_ids": [
+      "barbara",
+      "dendro-traveler",
+      "collei",
+      "lisa"
+    ]
+  },
+  {
+    "id": "beidou",
+    "name": "Beidou",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Support",
+      "Support",
+      "Sub DPS"
+    ],
+    "f2p_team": [
+      "Beidou",
+      "Dendro Traveler",
+      "Barbara",
+      "Lisa"
+    ],
+    "f2p_team_details": [
+      "- Dendro Traveler can increase the damage of Beidou through reactions.",
+      "- Barbara provides healing and Hydro application. She can also give ATK% buff to the next character that gets switched if she is equipped with Thrilling Tales.",
+      "- Lisa can decrease the enemies' DEF with her Burst and also serve as battery for Beidou."
+    ],
+    "f2p_team_ids": [
+      "beidou",
+      "dendro-traveler",
+      "barbara",
+      "lisa"
+    ]
+  },
+  {
+    "id": "bennett",
+    "name": "Bennett",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Xiangling",
+      "Xingqiu",
+      "Chongyun",
+      "Bennett"
+    ],
+    "f2p_team_details": [
+      "- OG National Team",
+      "- Whole team comp relies on multiple reactions happening at the same time"
+    ],
+    "f2p_team_ids": [
+      "xiangling",
+      "xingqiu",
+      "chongyun",
+      "bennett"
+    ]
+  },
+  {
+    "id": "candace",
+    "name": "Candace",
+    "f2p_team_roles": [
+      "DPS",
+      "Sub-DPS",
+      "Reaction",
+      "Heal"
+    ],
+    "f2p_team": [
+      "Candace",
+      "Xiangling",
+      "Sucrose",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- Candace can also act as a Hydro DPS",
+      "- Xiangling can provide Vaporized Reaction.",
+      "- Sucrose boost reaction.",
+      "- Barbara provided Hydro Resonance and stable healing."
+    ],
+    "f2p_team_ids": [
+      "candace",
+      "xiangling",
+      "sucrose",
+      "barbara"
+    ]
+  },
+  {
+    "id": "chongyun",
+    "name": "Chongyun",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub DPS",
+      "Support",
+      "Support"
+    ],
+    "f2p_team": [
+      "Chongyun",
+      "Xiangling",
+      "Sucrose",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- Chongyun acts as the main DPS of the team who can proc reverse melt with Xiangling's Skill & Burst and freeze with Barbara's Skill.",
+      "- Xiangling is a great off-field Pyro DPS. She can proc melt with Chongyun & vaporize with Barbara which can deal powerful damage. When her Skill's duration is done, it leaves a chili which gives an ATK buff that can boost the damage output of the team.",
+      "- Sucrose has crowd control that can gather lightweight enemies. She can also decrease the Elemental RES of enemies with 4-piece Viridescent Venerer set.",
+      "- Barbara is a great healer & Hydro applicator who can synergize with Chongyun & Xiangling to proc powerful elemental reactions."
+    ],
+    "f2p_team_ids": [
+      "chongyun",
+      "xiangling",
+      "sucrose",
+      "barbara"
+    ]
+  },
+  {
+    "id": "collei",
+    "name": "Collei",
+    "f2p_team_roles": [
+      "Sub-DPS",
+      "Support",
+      "DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Collei",
+      "Fischl",
+      "Lisa",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- Lisa can deal more powerful Electro damage with Dendro on its side.",
+      "- Fischl is there for energy and additional electro damage.",
+      "- Barbara can heal and also spread hydro to opponents for other dendro reactions such as hyperbloom."
+    ],
+    "f2p_team_ids": [
+      "collei",
+      "fischl",
+      "lisa",
+      "barbara"
+    ]
+  },
+  {
+    "id": "diona",
+    "name": "Diona",
+    "f2p_team_roles": [
+      "Support",
+      "DPS",
+      "DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Diona",
+      "Xiangling",
+      "Amber",
+      "Anemo Traveler"
+    ],
+    "f2p_team_details": [
+      "- In this team comp, Diona will act as a support to provide elemental reactions, shields, or healing when needed.",
+      "- Xiangling will be the main DPS. Her physical damage and pyro damage can carry the team when it comes to damage.",
+      "- Amber and Xiangling will have Pyro resonance for additional damage. She can also crowd control for the team using her skill.",
+      "- Anemo Traveler can debuff the enemies with Viridiscent Venerer providing an overall bigger damage."
+    ],
+    "f2p_team_ids": [
+      "diona",
+      "xiangling",
+      "amber",
+      "anemo-traveler"
+    ]
+  },
+  {
+    "id": "dori",
+    "name": "Dori",
+    "f2p_team_roles": [
+      "Heal",
+      "DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Dori",
+      "Lisa",
+      "Dendro Traveler",
+      "Xingqiu"
+    ],
+    "f2p_team_details": [
+      "- Dori will be able to keep the whole team's energy up, increasing up time for Bursts",
+      "- Lisa works well with Dori because of Electro Resonance and will get boosted by Dendro traveler and Xingqiu."
+    ],
+    "f2p_team_ids": [
+      "dori",
+      "lisa",
+      "dendro-traveler",
+      "xingqiu"
+    ]
+  },
+  {
+    "id": "faruzan",
+    "name": "Faruzan",
+    "f2p_team_roles": [
+      "Support",
+      "DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Faruzan",
+      "Shikanoin Heizou",
+      "Xingqiu",
+      "Bennett"
+    ],
+    "f2p_team_details": [
+      "- Faruzan can support the 4 Star character Heizou.",
+      "- Functions similarly to premium team."
+    ],
+    "f2p_team_ids": [
+      "faruzan",
+      "shikanoin-heizou",
+      "xingqiu",
+      "bennett"
+    ]
+  },
+  {
+    "id": "fischl",
+    "name": "Fischl",
+    "f2p_team_roles": [
+      "Main",
+      "Sub DPS",
+      "Support",
+      "Healing"
+    ],
+    "f2p_team": [
+      "Fischl",
+      "Kaeya",
+      "Anemo Traveler",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- Fischl can be an effective main DPS with Kaeya because of consistent superconduct.",
+      "- Anemo Traveler acts as the crowd control for the team.",
+      "- Barbara is an F2P-friendly healer."
+    ],
+    "f2p_team_ids": [
+      "fischl",
+      "kaeya",
+      "anemo-traveler",
+      "barbara"
+    ]
+  },
+  {
+    "id": "gorou",
+    "name": "Gorou",
+    "f2p_team_roles": [
+      "Support",
+      "DPS",
+      "Sub-DPS",
+      "Sub-DPS"
+    ],
+    "f2p_team": [
+      "Gorou",
+      "Noelle",
+      "Geo Traveler",
+      "Kaeya"
+    ],
+    "f2p_team_details": [
+      "- Similar to the previous team, Gorou will mainly be the Defense and Geo support for the team.",
+      "- Noelle will be the main DPS and healer.",
+      "- Geo Traveler will be giving energy with his Elemental skill and provide additional damage through Elemental Burst.",
+      "- Kaeya will enable Crystalize and provide off field Cryo support to the team."
+    ],
+    "f2p_team_ids": [
+      "gorou",
+      "noelle",
+      "geo-traveler",
+      "kaeya"
+    ]
+  },
+  {
+    "id": "kaeya",
+    "name": "Kaeya",
+    "f2p_team_roles": [
+      "DPS",
+      "Sub DPS",
+      "Sub DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Kaeya",
+      "Xiangling",
+      "Lisa",
+      "Bennett"
+    ],
+    "f2p_team_details": [
+      "- Kaeya acts as the main DPS since his normal attack has a high multiplier which can inflict strong damage output.",
+      "- Xiangling is a great off-field Pyro DPS that can work well with Kaeya & Lisa to proc melt & overload. In addition, her Skill grants additional ATK when Guoba disappears.",
+      "- Lisa is a great Electro support who can help Kaeya to proc superconduct. Also, her Burst can decrease the DEF of the enemies by 15%.",
+      "- Bennett gives healing & damage buff. In addition, you gain 25% ATK increase due to Pyro resonance."
+    ],
+    "f2p_team_ids": [
+      "kaeya",
+      "xiangling",
+      "lisa",
+      "bennett"
+    ]
+  },
+  {
+    "id": "kujou-sara",
+    "name": "Kujou Sara",
+    "f2p_team_roles": [
+      "Sub-DPS",
+      "Sub-DPS",
+      "Heal",
+      "Main DPS"
+    ],
+    "f2p_team": [
+      "Kujou Sara",
+      "Xiangling",
+      "Barbara",
+      "Lisa"
+    ],
+    "f2p_team_details": [
+      "- Kujou Sara works great with Xiangling because the Elemental Burst of Xiangling snapshots.",
+      "- Lisa can be easily buffed by Sara and is more amazing when Kujou Sara is at C6.",
+      "- Barbara is for general healing and spreading Hydro."
+    ],
+    "f2p_team_ids": [
+      "kujou-sara",
+      "xiangling",
+      "barbara",
+      "lisa"
+    ]
+  },
+  {
+    "id": "kuki-shinobu",
+    "name": "Kuki Shinobu",
+    "f2p_team_roles": [
+      "Reaction",
+      "Main Enabler",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Kuki Shinobu",
+      "Barbara",
+      "Dendro Traveler",
+      "Collei"
+    ],
+    "f2p_team_details": [
+      "- This team produces damage mainly from Hyperblooms.",
+      "- Use Barbara as the main enabler after releasing all of the off-field skills of the team for consistent blooms."
+    ],
+    "f2p_team_ids": [
+      "kuki-shinobu",
+      "barbara",
+      "dendro-traveler",
+      "collei"
+    ]
+  },
+  {
+    "id": "layla",
+    "name": "Layla",
+    "f2p_team_roles": [
+      "Main",
+      "Sub-DPS",
+      "Support",
+      "Support"
+    ],
+    "f2p_team": [
+      "Layla",
+      "Chongyun",
+      "Xingqiu",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- With Chongyun's infusion, Layla can also act as a Main DPS.",
+      "- Chongyun will be a sub-DPS who is only on-field for skills and burst.",
+      "- Xingqiu and Barbara for healing and Hydro infliction for freeze.."
+    ],
+    "f2p_team_ids": [
+      "layla",
+      "chongyun",
+      "xingqiu",
+      "barbara"
+    ]
+  },
+  {
+    "id": "lisa",
+    "name": "Lisa",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Lisa",
+      "Collei",
+      "Sucrose",
+      "Yaoyao"
+    ],
+    "f2p_team_details": [
+      "- An Aggravate team comp for Lisa"
+    ],
+    "f2p_team_ids": [
+      "lisa",
+      "collei",
+      "sucrose",
+      "yaoyao"
+    ]
+  },
+  {
+    "id": "mika",
+    "name": "Mika",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub DPS",
+      "Support",
+      "Support"
+    ],
+    "f2p_team": [
+      "Kaeya",
+      "Xiangling",
+      "Lisa",
+      "Mika"
+    ],
+    "f2p_team_details": [
+      "- A superconduct-overload-melt team with Kaeya as the main DPS that will deal Physical DMG",
+      "- Lisa will decrease enemies' DEF with her Burst",
+      "- Aside from off-field Pyro DPS, Xiangling will provide an ATK buff from Guoba's chili",
+      "- Mika will buff & heal simultaneously"
+    ],
+    "f2p_team_ids": [
+      "kaeya",
+      "xiangling",
+      "lisa",
+      "mika"
+    ]
+  },
+  {
+    "id": "ningguang",
+    "name": "Ningguang",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub DPS",
+      "Sub DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Ningguang",
+      "Kaeya",
+      "Xiangling",
+      "Noelle"
+    ],
+    "f2p_team_details": [
+      "- Kaeya has a Burst that can proc melt together with Xiangling's abilities.",
+      "- Xiangling is a great off-field Pyro DPS who can also give an ATK% buff by getting the chili when her Skill's duration is done.",
+      "- Noelle has a shield and she can heal when hitting an enemy while her Skill is active.",
+      "└ With Geo Resonance, gain DMG Bonus & shred the enemies' Geo RES."
+    ],
+    "f2p_team_ids": [
+      "ningguang",
+      "kaeya",
+      "xiangling",
+      "noelle"
+    ]
+  },
+  {
+    "id": "noelle",
+    "name": "Noelle",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Burst Support",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Noelle",
+      "Ningguang",
+      "Geo Traveler",
+      "Gorou"
+    ],
+    "f2p_team_details": [
+      "- A slightly more accessible Geo team centered around Noelle",
+      "- Works similar to the Premium team"
+    ],
+    "f2p_team_ids": [
+      "noelle",
+      "ningguang",
+      "geo-traveler",
+      "gorou"
+    ]
+  },
+  {
+    "id": "razor",
+    "name": "Razor",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Razor",
+      "Fischl",
+      "Rosaria",
+      "Diona"
+    ],
+    "f2p_team_details": [
+      "- A Superconduct team centered around Razor",
+      "- Works similar to the Premium team"
+    ],
+    "f2p_team_ids": [
+      "razor",
+      "fischl",
+      "rosaria",
+      "diona"
+    ]
+  },
+  {
+    "id": "rosaria",
+    "name": "Rosaria",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Rosaria",
+      "Chongyun",
+      "Xiangling",
+      "Bennett"
+    ],
+    "f2p_team_details": [
+      "- A relatively free-to-play team comp for Rosaria",
+      "- This focuses on dealing Melt damage from the characters, with Xiangling as the one who procs Melt while Rosaria applies constant Cryo with Chongyun"
+    ],
+    "f2p_team_ids": [
+      "rosaria",
+      "chongyun",
+      "xiangling",
+      "bennett"
+    ]
+  },
+  {
+    "id": "sayu",
+    "name": "Sayu",
+    "f2p_team_roles": [
+      "Heal",
+      "DPS",
+      "Reaction",
+      "CC"
+    ],
+    "f2p_team": [
+      "Sayu",
+      "Kaeya",
+      "Xiangling",
+      "Amber"
+    ],
+    "f2p_team_details": [
+      "- Sayu will be the healer and debuffer. She can also act as a sub-DPS boosting reactions.",
+      "- Kaeya can easily set up Melt for additional damage with Xiangling",
+      "- Amber will use her skill and burst to deal dmg and crowd control enemies."
+    ],
+    "f2p_team_ids": [
+      "sayu",
+      "kaeya",
+      "xiangling",
+      "amber"
+    ]
+  },
+  {
+    "id": "shikanoin-heizou",
+    "name": "Shikanoin Heizou",
+    "f2p_team_roles": [
+      "Damage",
+      "Damage",
+      "Damage/Buff",
+      "Heal"
+    ],
+    "f2p_team": [
+      "Shikanoin Heizou",
+      "Fischl",
+      "Xiangling",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- Heizou, as the main DPS, can deal swirl damage periodically which inflicts additional damage.",
+      "- Fischl provides consistent off-field Electro DPS and can produce either swirl-electro or overload elemental reaction.",
+      "- Xiangling's Guoba gives additional ATK & her elemental burst is great for off-field Pyro DPS. She can also be acquired for free when you finish Abyss 3-3.",
+      "- Barbara, as a free hero, should be the go-to healer. When equipped with Thrilling Tales of Dragon Slayers, she can provide additional ATK to the next character that will be switched."
+    ],
+    "f2p_team_ids": [
+      "shikanoin-heizou",
+      "fischl",
+      "xiangling",
+      "barbara"
+    ]
+  },
+  {
+    "id": "sucrose",
+    "name": "Sucrose",
+    "f2p_team_roles": [
+      "Support",
+      "Main DPS",
+      "Sub DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Sucrose",
+      "Lisa",
+      "Dendro Traveler",
+      "Barbara"
+    ],
+    "f2p_team_details": [
+      "- Sucrose has a great crowd control that can compress lightweight enemies within the range of Lisa's & Dendro Traveler's Burst. In addition, the Elemental Mastery buff that Sucrose gives can amplify the reaction damage output of the team.",
+      "- Lisa is a great Electro DPS that can decrease the enemies' DEF with her Burst. In addition, Electro is great to pair with Dendro & Hydro as the synergy between the 3 mentioned elements compliments each other.",
+      "- Dendro Traveler's Burst can periodically inflict Dendro DMG, has a wide range, and can last for a while.",
+      "- Barbara is a great healer & Hydro applicator."
+    ],
+    "f2p_team_ids": [
+      "sucrose",
+      "lisa",
+      "dendro-traveler",
+      "barbara"
+    ]
+  },
+  {
+    "id": "thoma",
+    "name": "Thoma",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Xiangling",
+      "Chongyun",
+      "Xiangling",
+      "Thoma"
+    ],
+    "f2p_team_details": [
+      "- A relatively free-to-play team comp for Thoma",
+      "- This team comp will work to continuously deal Elemental Reactions"
+    ],
+    "f2p_team_ids": [
+      "xiangling",
+      "chongyun",
+      "xiangling",
+      "thoma"
+    ]
+  },
+  {
+    "id": "xiangling",
+    "name": "Xiangling",
+    "f2p_team_roles": [
+      "Sub DPS",
+      "Support",
+      "Support",
+      "Main DPS"
+    ],
+    "f2p_team": [
+      "Xiangling",
+      "Amber",
+      "Barbara",
+      "Kaeya"
+    ],
+    "f2p_team_details": [
+      "- Amber & Xiangling gives the team Pyro Resonance that boosts ATK.",
+      "- Barbara can heal and spread Hydro for vaporize & freeze reaction.",
+      "- Kaeya can inflict Cryo for Melt and also act as a main DPS."
+    ],
+    "f2p_team_ids": [
+      "xiangling",
+      "amber",
+      "barbara",
+      "kaeya"
+    ]
+  },
+  {
+    "id": "xingqiu",
+    "name": "Xingqiu",
+    "f2p_team_roles": [
+      "Sub DPS",
+      "Sub DPS",
+      "Support",
+      "Main DPS"
+    ],
+    "f2p_team": [
+      "Xingqiu",
+      "Xiangling",
+      "Bennett",
+      "Chongyun"
+    ],
+    "f2p_team_details": [
+      "- This team is one of the most powerful teams in-game.",
+      "- Xingqiu, Xiangling, & Chongyun can trigger continuous reactions such as Vaporize, Melt, & Freeze.",
+      "- Bennett greatly boosts all of the damage produced by the team."
+    ],
+    "f2p_team_ids": [
+      "xingqiu",
+      "xiangling",
+      "bennett",
+      "chongyun"
+    ]
+  },
+  {
+    "id": "xinyan",
+    "name": "Xinyan",
+    "f2p_team_roles": [],
+    "f2p_team": [],
+    "f2p_team_details": [],
+    "f2p_team_ids": []
+  },
+  {
+    "id": "yanfei",
+    "name": "Yanfei",
+    "f2p_team_roles": [
+      "DPS",
+      "Sub-DPS",
+      "Heal",
+      "Reaction"
+    ],
+    "f2p_team": [
+      "Yanfei",
+      "Xiangling",
+      "Barbara",
+      "Kaeya"
+    ],
+    "f2p_team_details": [
+      "- Yanfei will be the main DPS dealing strong pyro dmg.",
+      "- Xiangling can support Yanfei with her resonance and energy from Guoba.",
+      "- Barbara can heal and spread hydro for reaction.",
+      "- Kaeya spreads Cryo enabling many Melt reaction."
+    ],
+    "f2p_team_ids": [
+      "yanfei",
+      "xiangling",
+      "barbara",
+      "kaeya"
+    ]
+  },
+  {
+    "id": "yaoyao",
+    "name": "Yaoyao",
+    "f2p_team_roles": [
+      "Heal",
+      "DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Yaoyao",
+      "Lisa",
+      "Collei",
+      "Xingqiu"
+    ],
+    "f2p_team_details": [
+      "- This team is a Spread-Hyperbloom team that is composed of easily obtained 4 star characters.",
+      "- A Dendro Healer works well with DPS Lisa.",
+      "- Collei for Resonance and additional Dendro infliction to enemies.",
+      "- Xingqiu for Extra DMG and Hydro infliction."
+    ],
+    "f2p_team_ids": [
+      "yaoyao",
+      "lisa",
+      "collei",
+      "xingqiu"
+    ]
+  },
+  {
+    "id": "yun-jin",
+    "name": "Yun Jin",
+    "f2p_team_roles": [
+      "Main DPS",
+      "Sub-DPS",
+      "Sub-DPS",
+      "Support"
+    ],
+    "f2p_team": [
+      "Rosaria",
+      "Fischl",
+      "Layla",
+      "Yun Jin"
+    ],
+    "f2p_team_details": [
+      "- A relatively free-to-play team comp for Yun Jin",
+      "- This team comp will work to increase the damage through Superconduct, which further increases the damage for a Physical DMG-build Rosaria"
+    ],
+    "f2p_team_ids": [
+      "rosaria",
+      "fischl",
+      "layla",
+      "yun-jin"
+    ]
+  }
+]

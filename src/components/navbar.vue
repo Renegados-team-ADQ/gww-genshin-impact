@@ -1,14 +1,14 @@
 <template>
   <nav class="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded">
     <div class="container flex flex-wrap items-center justify-between mx-auto">
-      <a href="https://flowbite.com/" class="flex items-center">
+      <a href="/" class="flex items-center">
         <img
-          src="https://flowbite.com/docs/images/logo.svg"
+          src="../../public/icons/paimon.png"
           class="h-6 mr-3 sm:h-9"
-          alt="Flowbite Logo"
+          alt="Paimon Icon"
         />
         <span class="self-center text-xl font-semibold whitespace-nowrap"
-          >Flowbite</span
+          >Genshin Web Wiki</span
         >
       </a>
       <button
@@ -57,13 +57,6 @@
               href="#"
               class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
               >Services</a
-            >
-          </li>
-          <li>
-            <a
-              href="#"
-              class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
-              >Pricing</a
             >
           </li>
           <li>

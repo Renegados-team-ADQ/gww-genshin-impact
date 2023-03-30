@@ -2,11 +2,13 @@
 import { ref, onMounted, watchEffect } from "vue";
 import Characters from "../../public/characters_info.json";
 import Premium from "../../public/characters_premium.json";
+import F2P from "../../public/characters_f2p.json";
 import { useRoute } from "vue-router";
 import NavBar from "../components/navbar.vue";
 
 const characterInfo = ref(null);
 const teamPremium = ref(null);
+const teamF2P = ref(null);
 const route = useRoute();
 const boolean = ref(false);
 const characterId = ref(null);
@@ -22,7 +24,10 @@ const getInfo = () => {
     (character) => character.id === characterId.value
   );
 
+  teamF2P.value = F2P.find((character) => character.id === characterId.value);
+
   console.log(teamPremium.value);
+  console.log(teamF2P.value);
   boolean.value = true;
 };
 
@@ -101,7 +106,7 @@ watchEffect(() => {
           <thead class="text-xs text-gray-700 uppercase bg-gray-50">
             <tr>
               <th
-                class="px-6 py-4"
+                class="px-6 py-4 text-center"
                 v-for="(rol, index) in teamPremium.premium_team_roles"
                 :key="index"
               >
@@ -138,6 +143,68 @@ watchEffect(() => {
               <td class="px-6 py-4">
                 <ul>
                   <li v-for="line in teamPremium.premium_team_details">
+                    {{ line }}
+                  </li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div
+      class="block w-full p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100"
+    >
+      <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">
+        Free to Play Team
+      </h2>
+
+      <div
+        class="relative overflow-x-auto shadow-md sm:rounded-lg"
+        v-if="boolean"
+      >
+        <table class="w-full text-sm text-left text-gray-500">
+          <thead class="text-xs text-gray-700 uppercase bg-gray-50">
+            <tr>
+              <th
+                class="px-6 py-4 text-center"
+                v-for="(rol, index) in teamF2P.f2p_team_roles"
+                :key="index"
+              >
+                {{ rol }}
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="bg-white border-b hover:bg-gray-50">
+              <td
+                class="px-6 py-4"
+                v-for="(teammate, index) in teamF2P.f2p_team"
+                :key="index"
+              >
+                <router-link
+                  :to="'/' + teamF2P.f2p_team_ids[index]"
+                  :key="teamF2P.f2p_team_ids[index]"
+                  class="flex flex-col justify-center items-center"
+                >
+                  <img
+                    class="h-auto max-w-full rounded-lg w-28"
+                    :src="`./images/${teamF2P.f2p_team_ids[index]}/icon.png`"
+                    alt=""
+                  />
+                  <p class="text-center">{{ teammate }}</p>
+                </router-link>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="w-full text-sm text-left text-gray-500">
+          <tbody>
+            <tr>
+              <td class="px-6 py-4">
+                <ul>
+                  <li v-for="line in teamF2P.f2p_team_details">
                     {{ line }}
                   </li>
                 </ul>
